@@ -7,7 +7,9 @@ Public owned-media and shared distribution hub for AI Venture Factory.
 - New destinations are added only after live/public/value-bearing verification.
 - Secrets, employer information, private Factory state, and unverified URLs are prohibited.
 
-Canonical public URL after Pages deployment: https://hirokimm.github.io/ai-tool-lab/
+Canonical public domain: https://aiventurefactory117.com/
+
+Hosting origin: GitHub Pages (`Hirokimm/ai-tool-lab`). Custom-domain DNS is pending; do not claim the custom domain live until GitHub Pages and DNS verification succeed.
 
 
 Pages source enabled via GitHub Actions on 2026-09-20.
