@@ -1,0 +1,60 @@
+name: Opportunity intake
+description: Submit a zero-cash, repeatable or scalable problem/opportunity for evaluation.
+title: "Opportunity: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submit only public or non-sensitive information. Do not include employer, vessel, customer, credential, personal, or other confidential data.
+  - type: textarea
+    id: buyer
+    attributes:
+      label: Buyer / user
+      description: Who repeatedly experiences the problem?
+    validations:
+      required: true
+  - type: textarea
+    id: trigger
+    attributes:
+      label: Trigger
+      description: What event makes the problem urgent or valuable to solve?
+    validations:
+      required: true
+  - type: textarea
+    id: workaround
+    attributes:
+      label: Current workaround
+      description: How is the problem handled today?
+    validations:
+      required: true
+  - type: textarea
+    id: asset
+    attributes:
+      label: Repeatable asset
+      description: What data, workflow, distribution rail, relationship, or IP could compound after the first solution?
+    validations:
+      required: true
+  - type: textarea
+    id: economics
+    attributes:
+      label: Economic signal
+      description: What observable action would show real value (purchase, qualified lead, referral, signup, booking, recurring use, etc.)?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Public evidence
+      description: Optional public URLs or sources demonstrating the problem. Do not include private information.
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety and scope
+      options:
+        - label: This submission contains no confidential employer, vessel, customer, credential, or personal data.
+          required: true
+        - label: This opportunity can be tested without paid acquisition, inventory purchase, or other user-capital spend.
+          required: true
+        - label: The proposed test does not depend primarily on selling the operator's hours.
+          required: true
