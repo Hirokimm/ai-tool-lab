@@ -45,6 +45,14 @@ Before considering the paid pilot, submit the free public ROI assessment:
 
 Choose **“Show me a bounded implementation scope”** if you want the implementation path. The assessment is non-binding. A submission is not a purchase, contract, or guarantee that the workflow will be accepted.
 
+## Ready to request the pilot?
+
+If you have already checked the economics and want the fixed-scope implementation path, submit the structured order request:
+
+**[Request the ¥49,000 Automation Pilot](https://github.com/Hirokimm/ai-tool-lab/issues/new?template=automation-pilot-order.yml)**
+
+The order request captures the workflow, baseline, target, acceptance criterion, and safe test-data plan in one place. Submitting it is a request to scope the pilot, not an automatic charge or contract. Commercial agreement must be reached before implementation begins.
+
 ## Economics
 
 The fixed price makes the go/no-go test explicit. A buyer can compare the ¥49,000 pilot cost with the workflow's estimated monthly time value and acceptable payback period before spending money.
