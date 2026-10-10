@@ -1,0 +1,100 @@
+name: AI Workflow ROI Assessment
+about: Request a public, bounded assessment of one repetitive workflow
+title: "[ROI assessment] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Free public workflow ROI assessment
+        Submit **one repetitive workflow**. The goal is to identify a small, reversible automation trial and quantify whether it is worth implementing.
+
+        **Public form:** Do not include names, email addresses, customer/employer information, credentials, API keys, internal URLs, proprietary documents, production data, or other confidential/personal information. Use generic descriptions and approximate numbers.
+  - type: input
+    id: workflow
+    attributes:
+      label: Workflow
+      description: Describe the repetitive task generically in one sentence.
+      placeholder: "Example: Turn a standard weekly CSV export into a formatted summary"
+    validations:
+      required: true
+  - type: input
+    id: runs
+    attributes:
+      label: Runs per month
+      placeholder: "40"
+    validations:
+      required: true
+  - type: input
+    id: minutes_before
+    attributes:
+      label: Minutes per run now
+      placeholder: "20"
+    validations:
+      required: true
+  - type: input
+    id: minutes_after
+    attributes:
+      label: Target minutes per run after automation
+      placeholder: "5"
+    validations:
+      required: true
+  - type: input
+    id: hourly_cost
+    attributes:
+      label: Approximate loaded hourly cost (JPY)
+      description: An estimate is sufficient.
+      placeholder: "3000"
+    validations:
+      required: true
+  - type: dropdown
+    id: data_sensitivity
+    attributes:
+      label: Data sensitivity
+      options:
+        - Synthetic or public data only
+        - Internal data can be replaced with synthetic examples
+        - Requires confidential/private data (not suitable for this public intake)
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Current steps
+      description: List 3–7 generic steps. Do not paste real records, documents, URLs, or identifiers.
+      placeholder: |
+        1. Export CSV
+        2. Filter rows by rule
+        3. Calculate totals
+        4. Draft summary
+    validations:
+      required: true
+  - type: textarea
+    id: tools
+    attributes:
+      label: Tools involved
+      description: Product names are fine; do not include account/workspace names or private URLs.
+      placeholder: "Example: Google Sheets, browser, email"
+    validations:
+      required: true
+  - type: dropdown
+    id: desired_outcome
+    attributes:
+      label: Desired outcome
+      options:
+        - Reduce manual time
+        - Reduce repetitive copy/paste
+        - Standardize output
+        - Reduce avoidable errors
+        - Other
+    validations:
+      required: true
+  - type: checkboxes
+    id: public_safe
+    attributes:
+      label: Public-safety confirmation
+      options:
+        - label: I confirm this submission contains no confidential, personal, employer/customer, credential, or production information.
+          required: true
+        - label: I understand this is an assessment request, not a guarantee of savings or implementation.
+          required: true
