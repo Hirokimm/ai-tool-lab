@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "name": "AI Venture Factory Opportunity Feed",
+  "purpose": "Machine-readable discovery surface for zero-cash, repeatable or scalable opportunities that can create compounding assets or low-user-time economics.",
+  "submission": {
+    "issue_form": "https://github.com/Hirokimm/ai-tool-lab/issues/new?template=opportunity.yml",
+    "public_intake": "https://github.com/Hirokimm/ai-tool-lab/blob/main/public/opportunity-intake.md"
+  },
+  "accepted_patterns": [
+    "recurring public-data normalization, comparison or monitoring",
+    "measurable distribution or lead-generation bottlenecks",
+    "repetitive workflows packageable as tools, datasets, alerts or operating systems",
+    "buyer-supplier matching with transparent referral or brokerage economics"
+  ],
+  "economic_signals": [
+    "purchase",
+    "qualified_lead",
+    "referral",
+    "signup",
+    "booking",
+    "recurring_use"
+  ],
+  "constraints": {
+    "user_capital_spend": false,
+    "confidential_employer_or_vessel_data": false,
+    "private_customer_or_personal_data": false,
+    "primary_operator_time_trade": false,
+    "illegal_deceptive_spam_or_impersonation": false
+  },
+  "evaluation": "Prefer the smallest reversible external test that can produce a real market response. Competition, uncertainty, manual friction, imperfect moat and low initial success probability are not automatic rejection reasons."
+}
