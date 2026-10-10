@@ -103,6 +103,20 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: implementation_budget
+    attributes:
+      label: If the ROI case works, what implementation budget range could you consider?
+      description: Non-binding. Used only to keep any proposed scope proportional to the buyer's economics.
+      options:
+        - Assessment only / no implementation budget
+        - Under ¥30,000
+        - ¥30,000–¥99,999
+        - ¥100,000–¥299,999
+        - ¥300,000 or more
+        - Not sure yet
+    validations:
+      required: true
+  - type: dropdown
     id: acceptable_payback
     attributes:
       label: Maximum acceptable payback period
