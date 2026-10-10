@@ -1,0 +1,85 @@
+name: Automation Pilot — Order Request
+description: Request a scoped ¥49,000 fixed-price automation pilot after the ROI gate.
+title: "[Pilot order request] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Fixed-Scope AI Workflow Automation Pilot — Order Request
+        Use this form only if you want to move from ROI assessment to a concrete **¥49,000 fixed-price pilot** for one repetitive digital workflow.
+
+        **Public form:** do not post employer/customer confidential information, personal data, credentials, API keys, private URLs, proprietary documents, production records, or other sensitive information. Use synthetic, public, or generic examples only.
+
+        Submitting this form is a non-binding order request, not a purchase, contract, reservation, invoice, or guarantee of acceptance. Work starts only after scope and commercial terms are separately agreed.
+  - type: input
+    id: roi_issue
+    attributes:
+      label: ROI Assessment issue URL
+      description: Paste the public ROI Assessment issue URL if you already submitted one.
+      placeholder: https://github.com/Hirokimm/ai-tool-lab/issues/...
+    validations:
+      required: true
+  - type: textarea
+    id: workflow
+    attributes:
+      label: One workflow to automate
+      description: Describe one repetitive digital workflow generically, without confidential details.
+      placeholder: "Example: Each week, transform a standardized CSV export into a formatted summary table."
+    validations:
+      required: true
+  - type: input
+    id: frequency
+    attributes:
+      label: Approximate runs per month
+      placeholder: "20"
+    validations:
+      required: true
+  - type: input
+    id: current_minutes
+    attributes:
+      label: Current minutes per run
+      placeholder: "30"
+    validations:
+      required: true
+  - type: input
+    id: target_minutes
+    attributes:
+      label: Target minutes per run
+      placeholder: "5"
+    validations:
+      required: true
+  - type: textarea
+    id: testable_output
+    attributes:
+      label: Testable output and definition of done
+      description: State what output can be checked objectively at acceptance.
+      placeholder: "Given the agreed synthetic sample, produce the expected table with all required columns and no manual reformatting."
+    validations:
+      required: true
+  - type: dropdown
+    id: test_data
+    attributes:
+      label: Safe test data available
+      options:
+        - Synthetic example I can provide publicly
+        - Public data/source
+        - Generic sample can be created without private information
+        - Not yet
+    validations:
+      required: true
+  - type: checkboxes
+    id: commercial_ack
+    attributes:
+      label: Commercial fit
+      options:
+        - label: I understand the listed pilot price is ¥49,000 fixed for one accepted bounded workflow.
+          required: true
+        - label: I understand out-of-scope additions require a separate scope.
+          required: true
+        - label: I have not included confidential, personal, credential, proprietary, or production information in this public request.
+          required: true
+  - type: markdown
+    attributes:
+      value: |
+        Offer details: https://github.com/Hirokimm/ai-tool-lab/blob/main/offers/ai-workflow-roi-calculator/IMPLEMENTATION-OFFER.md
