@@ -9,6 +9,8 @@ body:
         ## Free public workflow ROI assessment
         Submit **one repetitive workflow**. The goal is to identify a small, reversible automation trial and quantify whether it is worth implementing.
 
+        If the assessment shows a credible positive ROI, you can also indicate whether you want a bounded implementation proposal. This turns the same intake into a qualification path without requiring a second brief.
+
         **Public form:** Do not include names, email addresses, customer/employer information, credentials, API keys, internal URLs, proprietary documents, production data, or other confidential/personal information. Use generic descriptions and approximate numbers.
   - type: input
     id: workflow
@@ -87,6 +89,30 @@ body:
         - Standardize output
         - Reduce avoidable errors
         - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: implementation_interest
+    attributes:
+      label: If ROI is positive, what should happen next?
+      description: This is non-binding and does not create a purchase or contract.
+      options:
+        - Assessment only
+        - Show me a bounded implementation scope
+        - I may want implementation after reviewing the assessment
+    validations:
+      required: true
+  - type: dropdown
+    id: acceptable_payback
+    attributes:
+      label: Maximum acceptable payback period
+      description: Used to reject weak implementation cases early.
+      options:
+        - 1 month
+        - 3 months
+        - 6 months
+        - 12 months
+        - Not sure / assessment only
     validations:
       required: true
   - type: checkboxes
