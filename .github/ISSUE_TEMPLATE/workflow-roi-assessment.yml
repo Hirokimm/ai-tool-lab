@@ -129,6 +129,21 @@ body:
         - Not sure / assessment only
     validations:
       required: true
+  - type: dropdown
+    id: referral_source
+    attributes:
+      label: How did you find this assessment?
+      description: Helps identify which zero-cost distribution channels produce qualified workflow requests.
+      options:
+        - AI Tool Lab website
+        - GitHub search or repository
+        - Shared ROI Calculator result
+        - Search engine
+        - Social post or profile
+        - Direct referral from another person
+        - Other / not sure
+    validations:
+      required: true
   - type: checkboxes
     id: public_safe
     attributes:
