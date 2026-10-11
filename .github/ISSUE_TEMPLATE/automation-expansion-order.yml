@@ -1,0 +1,76 @@
+name: Automation Expansion License Order
+description: Request the ¥19,800/month post-pilot expansion path for an accepted workflow.
+title: "[Expansion] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Automation Expansion License — order request
+        Use this after a fixed-scope Automation Pilot has passed its acceptance check. The intended commercial path is **¥19,800/month per active workflow**, subject to written agreement before service starts.
+
+        **Do not post** names of employers/customers, personal data, credentials, private URLs, proprietary files, production records, or vessel/operations information. Use generic or anonymized descriptions only.
+
+  - type: dropdown
+    id: pilot_status
+    attributes:
+      label: Pilot status
+      options:
+        - Acceptance check passed
+        - Acceptance check pending
+        - I have not completed a pilot
+    validations:
+      required: true
+
+  - type: input
+    id: workflow
+    attributes:
+      label: Generic workflow category
+      placeholder: e.g. recurring spreadsheet transformation
+    validations:
+      required: true
+
+  - type: input
+    id: runs
+    attributes:
+      label: Approximate runs per month
+      placeholder: e.g. 20
+    validations:
+      required: true
+
+  - type: textarea
+    id: requested_changes
+    attributes:
+      label: First bounded changes requested
+      description: List up to two small changes you want considered for the first monthly cycle. Do not include confidential information.
+      placeholder: "1. Add one output column\n2. Adjust filename convention"
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Current acceptance criterion
+      placeholder: Describe the measurable definition of done using generic/anonymized terms.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: intent
+    attributes:
+      label: Commercial intent
+      options:
+        - Ready to request the ¥19,800/month expansion license
+        - Need scope confirmation first
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Public-intake safety
+      options:
+        - label: I confirm this submission contains no credentials, personal data, employer/customer confidential information, private URLs, proprietary files, production records, or vessel/operations information.
+          required: true
+        - label: I understand this submission is an order request, not an automatic charge or contract, and service starts only after written commercial agreement.
+          required: true
