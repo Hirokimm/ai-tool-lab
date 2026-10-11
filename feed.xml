@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Tool Lab — Paid Automation Offers</title>
+    <link>https://hirokimm.github.io/ai-tool-lab/</link>
+    <description>Public, bounded AI workflow automation offers with structured, non-binding order paths.</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 11 Oct 2026 22:34:00 GMT</lastBuildDate>
+    <atom:link href="https://hirokimm.github.io/ai-tool-lab/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI Workflow Automation Pilot — ¥49,000 fixed</title>
+      <link>https://github.com/Hirokimm/ai-tool-lab/issues/new?template=automation-pilot-order.yml&amp;utm_source=rss&amp;utm_medium=syndication&amp;utm_campaign=automation_pilot_49000&amp;utm_content=paid_offer_feed</link>
+      <guid isPermaLink="false">ai-tool-lab-automation-pilot-49000-v1</guid>
+      <pubDate>Sun, 11 Oct 2026 22:34:00 GMT</pubDate>
+      <description>One bounded repetitive workflow, one measurable acceptance criterion and one correction pass. A fitted slot may be reserved for ¥9,800 after written fit confirmation; it is fully credited to the ¥49,000 total.</description>
+    </item>
+    <item>
+      <title>Automation Team Pack — ¥98,000 per month</title>
+      <link>https://github.com/Hirokimm/ai-tool-lab/issues/new?template=automation-team-pack-order.yml&amp;utm_source=rss&amp;utm_medium=syndication&amp;utm_campaign=automation_team_pack_98000&amp;utm_content=paid_offer_feed</link>
+      <guid isPermaLink="false">ai-tool-lab-team-pack-98000-v1</guid>
+      <pubDate>Sun, 11 Oct 2026 22:34:00 GMT</pubDate>
+      <description>Bounded recurring delivery for up to five active workflows. Each workflow requires a measurable acceptance criterion; monthly change limits and priorities are agreed in writing.</description>
+    </item>
+  </channel>
+</rss>
