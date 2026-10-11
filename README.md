@@ -2,6 +2,14 @@
 
 Public owned-media and shared distribution hub for AI Venture Factory.
 
+## 3 founding slots open — Fixed-Scope AI Workflow Automation Pilot
+
+A buyer can now request one bounded automation pilot for **¥49,000 fixed**: one repetitive workflow, one measurable acceptance criterion, target delivery within 5 business days after written scope acceptance, and one correction pass.
+
+**[Review the public offer and request a founding slot](https://github.com/Hirokimm/ai-tool-lab/issues/23)**
+
+The request is non-binding. No credentials, private URLs, personal data, employer/customer information, proprietary production files, or other confidential information should be submitted.
+
 ## Try the live tools
 
 - [Split large PDFs and PDF folders locally with Split2AI](https://split2ai.vercel.app/?utm_source=github&utm_medium=repository&utm_campaign=folder_batch_acquisition&utm_content=readme_split2ai)
