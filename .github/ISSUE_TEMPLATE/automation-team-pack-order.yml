@@ -1,5 +1,5 @@
 name: Automation Team Pack — Order Request
-description: Request the ¥98,000/month package for up to 5 active, bounded automation workflows.
+description: Request the ¥98,000/month or ¥980,000/year-prepaid package for up to 5 active, bounded automation workflows.
 title: "[Team Pack order request] "
 labels: []
 body:
@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         # Automation Team Pack — Structured Order Request
-        Use this form to request the existing **¥98,000/month Automation Team Pack** for up to 5 active workflows.
+        Use this form to request the **Automation Team Pack** for up to 5 active workflows: **¥98,000/month**, or **¥980,000 prepaid for 12 months** (equivalent to 10 monthly payments).
 
         Each workflow must have a bounded input, output, acceptance criterion, and monthly run pattern. Final scope, start date, billing instructions, and any delivery-partner assignment are confirmed in writing before work begins.
 
@@ -63,13 +63,23 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: billing_cadence
+    attributes:
+      label: Preferred billing cadence
+      description: Annual prepayment covers 12 months at the equivalent of 10 monthly payments. Selection records intent only; final start date, invoice, renewal, cancellation, and refund terms are confirmed in writing before payment.
+      options:
+        - Monthly — ¥98,000 per month
+        - Annual prepay — ¥980,000 for 12 months
+    validations:
+      required: true
+  - type: dropdown
     id: commercial_intent
     attributes:
       label: Commercial intent after written scope confirmation
       description: This selection records intent only and does not charge the requester.
       options:
-        - Ready to proceed at ¥98,000/month if the written scope is accepted
-        - Need the written scope and start date before deciding
+        - Ready to proceed with the selected monthly or annual-prepay option if the written scope is accepted
+        - Need the written scope, start date, and billing terms before deciding
     validations:
       required: true
   - type: dropdown
@@ -98,7 +108,7 @@ body:
     attributes:
       label: Required acknowledgements
       options:
-        - label: I understand the Team Pack price is ¥98,000 per month for up to 5 active, accepted workflows.
+        - label: I understand the Team Pack is ¥98,000/month or ¥980,000 prepaid for 12 months, for up to 5 active, accepted workflows.
           required: true
         - label: I understand this is bounded recurring delivery, not unlimited development or an SLA.
           required: true
