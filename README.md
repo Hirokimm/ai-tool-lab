@@ -2,6 +2,24 @@
 
 Public owned-media and shared distribution hub for AI Venture Factory.
 
+## Sell / refer the Automation Pilot
+
+Independent consultants, agencies, builders, and operators can use two zero-upfront-cost commercial paths around the existing **¥49,000 Fixed-Scope AI Workflow Automation Pilot**.
+
+### Referral path — ¥9,800 on an eligible paid pilot
+
+Send a genuinely new, qualified buyer through the self-qualification flow. An eligible attributed referral earns **¥9,800 (20%)** only after the buyer's ¥49,000 pilot payment has cleared and is not refunded or reversed. Register the referral code before introduction; duplicate, existing, unpaid, cancelled, fraudulent, or untraceable referrals do not qualify.
+
+**[Open the canonical referral offer](https://github.com/Hirokimm/ai-tool-lab/issues/15?utm_source=github&utm_medium=repository&utm_campaign=automation_referral_9800&utm_content=readme_partner_rail)**
+
+### Reseller path — fixed ¥39,200 fulfillment unit
+
+Agencies and consultants that want to retain the end-client relationship can request a bounded pilot fulfillment unit at **¥39,200** per separately accepted engagement. At the reference ¥49,000 retail price, the arithmetic gross spread is ¥9,800 before taxes, payment costs, refunds, support obligations, and other costs. Resellers control their lawful end-client pricing. There is no joining fee, monthly fee, or minimum volume.
+
+**[Claim a founding reseller slot](https://github.com/Hirokimm/ai-tool-lab/issues/30?utm_source=github&utm_medium=repository&utm_campaign=automation_wholesale_39200&utm_content=readme_partner_rail)**
+
+These public pages are intake/attribution surfaces, not automatic contracts or guaranteed income. Scope, timing, responsibilities, payment/refund handling, and any commercial acceptance are confirmed in writing before work begins. Never post buyer identities, credentials, personal data, employer/customer confidential information, proprietary production records, or vessel/operational information.
+
 ## 3 founding slots open — Fixed-Scope AI Workflow Automation Pilot
 
 A buyer can now request one bounded automation pilot for **¥49,000 fixed**: one repetitive workflow, one measurable acceptance criterion, target delivery within 5 business days after written scope acceptance, and one correction pass.
@@ -9,7 +27,6 @@ A buyer can now request one bounded automation pilot for **¥49,000 fixed**: one
 **[Submit a structured Pilot order request](https://github.com/Hirokimm/ai-tool-lab/issues/new?template=automation-pilot-order.yml&utm_source=github&utm_medium=repository&utm_campaign=automation_pilot_49000&utm_content=readme_structured_order)**
 
 The request is non-binding. No credentials, private URLs, personal data, employer/customer information, proprietary production files, or other confidential information should be submitted.
-
 
 ## Recurring delivery — Automation Team Pack
 
