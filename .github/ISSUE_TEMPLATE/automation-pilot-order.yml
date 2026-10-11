@@ -1,22 +1,22 @@
-name: Automation Pilot — Order Request
-description: Request a scoped ¥49,000 fixed-price automation pilot after the ROI gate.
+name: Automation Pilot — Request or Reserve
+description: Request a scoped ¥49,000 pilot and choose full payment or a ¥9,800 fitted-slot reservation.
 title: "[Pilot order request] "
 labels: []
 body:
   - type: markdown
     attributes:
       value: |
-        # Fixed-Scope AI Workflow Automation Pilot — Order Request
-        Use this form only if you want to move from ROI assessment to a concrete **¥49,000 fixed-price pilot** for one repetitive digital workflow.
+        # Fixed-Scope AI Workflow Automation Pilot — Request or Reserve
+        Use this form to request one **¥49,000 fixed-price pilot** for one repetitive digital workflow. After written fit confirmation, choose full payment or a **¥9,800 fitted-slot reservation** that is fully credited to the total, leaving ¥39,200.
 
         **Public form:** do not post employer/customer confidential information, personal data, credentials, API keys, private URLs, proprietary documents, production records, or other sensitive information. Use synthetic, public, or generic examples only.
 
-        Submitting this form is a non-binding order request, not a purchase, contract, reservation, invoice, or guarantee of acceptance. Work starts only after scope and commercial terms are separately agreed.
+        Submitting this form is non-binding and does not create a purchase, contract, reservation, invoice, or guarantee of acceptance. No payment is requested until fit and scope are confirmed in writing.
   - type: input
     id: roi_issue
     attributes:
       label: ROI Assessment issue URL
-      description: Paste the public ROI Assessment issue URL if you already submitted one.
+      description: Paste the public ROI Assessment issue URL if you already submitted one. If not, enter "none".
       placeholder: https://github.com/Hirokimm/ai-tool-lab/issues/...
     validations:
       required: true
@@ -68,12 +68,25 @@ body:
         - Not yet
     validations:
       required: true
+  - type: dropdown
+    id: payment_path
+    attributes:
+      label: Preferred payment path after written fit confirmation
+      description: This selection records intent only. It does not charge or reserve a slot.
+      options:
+        - ¥9,800 fitted-slot reservation, fully credited; ¥39,200 remaining
+        - ¥49,000 full payment after scope acceptance
+        - Need the written scope first, then decide
+    validations:
+      required: true
   - type: checkboxes
     id: commercial_ack
     attributes:
       label: Commercial fit
       options:
-        - label: I understand the listed pilot price is ¥49,000 fixed for one accepted bounded workflow.
+        - label: I understand the total pilot price is ¥49,000 fixed for one accepted bounded workflow.
+          required: true
+        - label: I understand the ¥9,800 reservation is available only after written fit confirmation and is credited to the total.
           required: true
         - label: I understand out-of-scope additions require a separate scope.
           required: true
@@ -82,4 +95,6 @@ body:
   - type: markdown
     attributes:
       value: |
-        Offer details: https://github.com/Hirokimm/ai-tool-lab/blob/main/offers/ai-workflow-roi-calculator/IMPLEMENTATION-OFFER.md
+        Live offer and reservation terms: https://github.com/Hirokimm/ai-tool-lab/issues/23
+
+        Full package details: https://github.com/Hirokimm/ai-tool-lab/blob/main/offers/ai-workflow-roi-calculator/IMPLEMENTATION-OFFER.md
