@@ -79,6 +79,27 @@ body:
         - Need the written scope first, then decide
     validations:
       required: true
+  - type: dropdown
+    id: discovery_source
+    attributes:
+      label: How did you reach this order form?
+      description: Used to attribute the transaction path.
+      options:
+        - Direct / AI Tool Lab website
+        - Referral partner
+        - GitHub or public repository
+        - Search
+        - Other public source
+    validations:
+      required: true
+  - type: input
+    id: referral_code
+    attributes:
+      label: Referral partner code (if applicable)
+      description: If a partner introduced this offer, enter the attribution code they provided. Leave blank for direct orders.
+      placeholder: "Example: partner-name-01"
+    validations:
+      required: false
   - type: checkboxes
     id: commercial_ack
     attributes:
