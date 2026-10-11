@@ -10,6 +10,15 @@ A buyer can now request one bounded automation pilot for **¥49,000 fixed**: one
 
 The request is non-binding. No credentials, private URLs, personal data, employer/customer information, proprietary production files, or other confidential information should be submitted.
 
+
+## Recurring delivery — Automation Team Pack
+
+Organizations with multiple repetitive workflows can request the existing **¥98,000/month Automation Team Pack** for up to 5 active, bounded workflows. Each workflow needs a measurable acceptance criterion; first-month priorities, monthly change limits, start timing, and continuation terms are agreed in writing.
+
+**[Submit a structured Team Pack order request](https://github.com/Hirokimm/ai-tool-lab/issues/new?template=automation-team-pack-order.yml&utm_source=github&utm_medium=repository&utm_campaign=automation_team_pack_98000&utm_content=readme_structured_order)**
+
+Submitting the form does not create a charge or contract. This is not unlimited development or an SLA. Use only synthetic, public, or generic examples; do not submit credentials, personal data, employer/customer information, private URLs, production records, or confidential files.
+
 ## Try the live tools
 
 - [Split large PDFs and PDF folders locally with Split2AI](https://split2ai.vercel.app/?utm_source=github&utm_medium=repository&utm_campaign=folder_batch_acquisition&utm_content=readme_split2ai)
