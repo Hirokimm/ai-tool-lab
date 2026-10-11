@@ -6,7 +6,7 @@ Public owned-media and shared distribution hub for AI Venture Factory.
 
 A buyer can now request one bounded automation pilot for **¥49,000 fixed**: one repetitive workflow, one measurable acceptance criterion, target delivery within 5 business days after written scope acceptance, and one correction pass.
 
-**[Review the public offer and request a founding slot](https://github.com/Hirokimm/ai-tool-lab/issues/23)**
+**[Submit a structured Pilot order request](https://github.com/Hirokimm/ai-tool-lab/issues/new?template=automation-pilot-order.yml&utm_source=github&utm_medium=repository&utm_campaign=automation_pilot_49000&utm_content=readme_structured_order)**
 
 The request is non-binding. No credentials, private URLs, personal data, employer/customer information, proprietary production files, or other confidential information should be submitted.
 
