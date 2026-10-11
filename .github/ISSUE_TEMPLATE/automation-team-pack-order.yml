@@ -1,0 +1,93 @@
+name: Automation Team Pack — Order Request
+description: Request the ¥98,000/month package for up to 5 active, bounded automation workflows.
+title: "[Team Pack order request] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Automation Team Pack — Structured Order Request
+        Use this form to request the existing **¥98,000/month Automation Team Pack** for up to 5 active workflows.
+
+        Each workflow must have a bounded input, output, acceptance criterion, and monthly run pattern. Final scope, start date, billing instructions, and any delivery-partner assignment are confirmed in writing before work begins.
+
+        **Public form:** use only public, synthetic, generic, or properly anonymized information. Do not post credentials, personal data, employer/client confidential information, internal URLs/files, production records, or vessel/operations information.
+
+        Submitting this form is non-binding and does not create a contract, invoice, payment obligation, SLA, or guarantee of acceptance.
+  - type: dropdown
+    id: workflow_count
+    attributes:
+      label: Number of active workflows requested
+      options:
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
+    validations:
+      required: true
+  - type: textarea
+    id: workflow_portfolio
+    attributes:
+      label: Workflow portfolio
+      description: For each requested workflow, provide a generic category, approximate runs per month, and one measurable acceptance criterion.
+      placeholder: |
+        Workflow 1 — category / runs per month / acceptance criterion
+        Workflow 2 — category / runs per month / acceptance criterion
+    validations:
+      required: true
+  - type: textarea
+    id: first_month_priority
+    attributes:
+      label: First-month priority
+      description: State which workflow should be addressed first and why, using public-safe information only.
+      placeholder: "Example: Prioritize the weekly reporting workflow because it has the highest repeat frequency."
+    validations:
+      required: true
+  - type: dropdown
+    id: safe_test_data
+    attributes:
+      label: Safe test data for acceptance checks
+      options:
+        - Synthetic examples can be provided publicly
+        - Public data or public source
+        - Generic samples can be created without private information
+        - Not yet available
+    validations:
+      required: true
+  - type: input
+    id: start_window
+    attributes:
+      label: Desired start window
+      placeholder: "Example: November 2026"
+    validations:
+      required: true
+  - type: dropdown
+    id: commercial_intent
+    attributes:
+      label: Commercial intent after written scope confirmation
+      description: This selection records intent only and does not charge the requester.
+      options:
+        - Ready to proceed at ¥98,000/month if the written scope is accepted
+        - Need the written scope and start date before deciding
+    validations:
+      required: true
+  - type: checkboxes
+    id: commercial_ack
+    attributes:
+      label: Required acknowledgements
+      options:
+        - label: I understand the Team Pack price is ¥98,000 per month for up to 5 active, accepted workflows.
+          required: true
+        - label: I understand this is bounded recurring delivery, not unlimited development or an SLA.
+          required: true
+        - label: I understand additions outside the written monthly scope require a separate agreement.
+          required: true
+        - label: I have not included confidential, personal, credential, proprietary, production, employer/client, or vessel/operations information.
+          required: true
+  - type: markdown
+    attributes:
+      value: |
+        Live commercial terms and manual intake: https://github.com/Hirokimm/ai-tool-lab/issues/21
+
+        For one bounded workflow instead, use the ¥49,000 Pilot form: https://github.com/Hirokimm/ai-tool-lab/issues/new?template=automation-pilot-order.yml
