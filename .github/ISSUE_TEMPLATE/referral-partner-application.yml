@@ -1,0 +1,76 @@
+name: 紹介パートナー応募
+description: ¥49,000パイロットまたは月額¥98,000 Team Packの成功報酬紹介を事前登録します
+title: "[Referral] "
+labels:
+  - referral
+body:
+  - type: markdown
+    attributes:
+      value: |
+        課題が合う買い手を紹介するパートナー向けの事前登録フォームです。登録料・広告費・初期費用は不要です。
+        
+        - 固定パイロット：入金¥49,000の20%＝報酬¥9,800
+        - Automation Team Pack：初月入金¥98,000の20%＝報酬¥19,600
+        - 更新月は別途の書面合意がない限り対象外
+        - 紹介前の受付確認、帰属確認、顧客入金、取消・返金なしが支払条件
+        
+        買い手の個人情報、勤務先の非公開情報、顧客情報、機密情報は記載しないでください。
+  - type: dropdown
+    id: offer
+    attributes:
+      label: 対象オファー
+      description: 紹介を希望する商品を選択してください。
+      options:
+        - 固定パイロット（買い手価格¥49,000／報酬¥9,800）
+        - Automation Team Pack（初月¥98,000／報酬¥19,600）
+        - 両方
+    validations:
+      required: true
+  - type: textarea
+    id: buyer_segment
+    attributes:
+      label: 想定する買い手層
+      description: 個人名や連絡先ではなく、業種・規模・反復業務の種類を記載してください。
+      placeholder: 例：従業員10〜50名の事業者で、週次報告や転記作業に時間を使っているチーム
+    validations:
+      required: true
+  - type: textarea
+    id: channel
+    attributes:
+      label: 本人同意済みの紹介チャネル
+      description: 無差別メール・DM・スクレイピングした連絡先は利用できません。
+      placeholder: 例：自身が運営するニュースレター、参加者が案内に同意したコミュニティ
+    validations:
+      required: true
+  - type: textarea
+    id: fit
+    attributes:
+      label: 適合理由
+      description: 買い手層のどの反復業務を、どちらのオファーで解決できると考えるか記載してください。
+    validations:
+      required: true
+  - type: input
+    id: attribution
+    attributes:
+      label: 希望する帰属識別子
+      description: 紹介元を監査可能にする短い英数字を指定してください。
+      placeholder: partner-name-01
+    validations:
+      required: true
+  - type: checkboxes
+    id: declarations
+    attributes:
+      label: 確認事項
+      options:
+        - label: 紹介前に書面で受付確認を得るまで、報酬対象として扱われないことを理解しました
+          required: true
+        - label: 無差別メール・DM、購入・収集した連絡先、勤務先・顧客・機密情報を使用しません
+          required: true
+        - label: 顧客の入金完了および取消・返金なしが報酬確定条件であることを理解しました
+          required: true
+        - label: 買い手の個人情報をこの公開Issueへ投稿しません
+          required: true
+  - type: markdown
+    attributes:
+      value: |
+        送信後、公開Issue上で受付可否と帰属識別子を確認します。フォーム送信だけでは契約・支払義務は発生しません。
