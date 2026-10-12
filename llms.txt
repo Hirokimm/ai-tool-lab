@@ -24,6 +24,8 @@ Canonical hub: https://hirokimm.github.io/ai-tool-lab/
 - Deliverable: monthly differential CSV updates for up to 500 organizations, with public evidence URLs.
 - License: 10 named users within one corporation; no resale or redistribution.
 - Annual prepaid: JPY 498,000 for 12 monthly updates.
+- Kickoff reservation: JPY 49,800 after fit confirmation, credited in full to the first-year fee, leaving JPY 448,200.
+- Dedicated reservation order: https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-license-reservation-order.yml&utm_source=llms_txt&utm_medium=ai_discovery&utm_campaign=agency_portfolio_license_reservation_49800&utm_content=invoice_intent
 - Scope and terms are confirmed in writing before contract.
 - Sample and paid-intent form: https://hirokimm.github.io/data-act-exit-audit/005/?utm_source=llms_txt&utm_medium=ai_discovery&utm_campaign=agency_portfolio_license_498000&utm_content=paid_offer
 
