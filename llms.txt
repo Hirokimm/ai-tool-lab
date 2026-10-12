@@ -1,0 +1,27 @@
+# AI Tool Lab
+
+AI Tool Lab publishes fixed-scope, buyer-ready AI workflow and public-source data offers.
+Canonical hub: https://hirokimm.github.io/ai-tool-lab/
+
+## Paid offers
+
+### AI Workflow Automation Team Pack
+- Buyer: operations, marketing, research, or product teams with a repeatable workflow to automate.
+- Scope: fixed written scope before work starts; no hidden-scope acceptance.
+- Monthly: JPY 98,000.
+- Annual prepaid: JPY 980,000 for 12 months (JPY 196,000 below 12 monthly payments).
+- Order: https://github.com/Hirokimm/ai-tool-lab/issues/new?template=automation-team-pack-order.yml&utm_source=llms_txt&utm_medium=ai_discovery&utm_campaign=annual_team_pack_980000&utm_content=paid_offer
+
+### Certification Renewal Radar
+- Buyer: certification consultants and security-support firms.
+- Deliverable: monthly CSV updates for up to 100 organizations, including organization, official domain, certification type, expiry context, and public evidence URL.
+- Annual prepaid: JPY 198,000 for 12 monthly updates.
+- Important: certification expiry is context only and does not prove purchase or renewal intent.
+- Sample and paid-intent form: https://hirokimm.github.io/data-act-exit-audit/005/?utm_source=llms_txt&utm_medium=ai_discovery&utm_campaign=cert_signal_annual_radar_198000&utm_content=paid_offer
+
+## Transaction rules
+
+- A form submission is non-binding and does not create a charge.
+- Scope, price, payment method, and delivery terms are confirmed in writing before contract.
+- Do not submit confidential or private information through public forms.
+- Public-source data only; no unsolicited outreach is performed by AI Tool Lab.
