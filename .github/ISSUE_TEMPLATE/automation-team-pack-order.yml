@@ -83,6 +83,17 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: transaction_readiness
+    attributes:
+      label: Transaction readiness
+      description: Choose the closest current state. Do not post names, company details, billing details, or other private information.
+      options:
+        - I can approve and request contract or invoice instructions after accepting the written scope
+        - I can recommend this purchase and route it for approval
+        - I am evaluating the offer only
+    validations:
+      required: true
+  - type: dropdown
     id: discovery_source
     attributes:
       label: How did you reach this order form?
@@ -119,6 +130,8 @@ body:
   - type: markdown
     attributes:
       value: |
+        A requester who selects contract/invoice readiness can move to a private written-scope and billing-instruction step after public-safe fit review. No payment is collected through this public form.
+
         Live commercial terms and manual intake: https://github.com/Hirokimm/ai-tool-lab/issues/21
 
         For one bounded workflow instead, use the ¥49,000 Pilot form: https://github.com/Hirokimm/ai-tool-lab/issues/new?template=automation-pilot-order.yml
