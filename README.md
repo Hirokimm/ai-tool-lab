@@ -30,11 +30,11 @@ The request is non-binding. No credentials, private URLs, personal data, employe
 
 ## Recurring delivery — Automation Team Pack
 
-Organizations with multiple repetitive workflows can request the existing **¥98,000/month Automation Team Pack** for up to 5 active, bounded workflows. Each workflow needs a measurable acceptance criterion; first-month priorities, monthly change limits, start timing, and continuation terms are agreed in writing.
+Organizations with multiple repetitive workflows can request the bounded Automation Team Pack for up to 5 active workflows: **¥98,000/month**, or **¥980,000 prepaid for 12 months**. Annual prepayment is ¥196,000 below twelve monthly payments. Each workflow needs a measurable acceptance criterion; first-month priorities, monthly change limits, start timing, and continuation terms are agreed in writing.
 
-**[Submit a structured Team Pack order request](https://github.com/Hirokimm/ai-tool-lab/issues/new?template=automation-team-pack-order.yml&utm_source=github&utm_medium=repository&utm_campaign=automation_team_pack_98000&utm_content=readme_structured_order)**
+**[Submit a monthly or annual Team Pack order request](https://github.com/Hirokimm/ai-tool-lab/issues/new?template=automation-team-pack-order.yml&utm_source=github&utm_medium=repository&utm_campaign=automation_team_pack_monthly_or_annual&utm_content=readme_structured_order)**
 
-Submitting the form does not create a charge or contract. This is not unlimited development or an SLA. Use only synthetic, public, or generic examples; do not submit credentials, personal data, employer/customer information, private URLs, production records, or confidential files.
+Submitting the form does not create a charge or contract. Start date, invoicing, renewal, cancellation and refund terms are confirmed in writing before payment. This is not unlimited development or an SLA. Use only synthetic, public, or generic examples; do not submit credentials, personal data, employer/customer information, private URLs, production records, or confidential files.
 
 ## Try the live tools
 
