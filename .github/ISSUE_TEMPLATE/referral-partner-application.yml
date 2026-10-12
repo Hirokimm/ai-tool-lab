@@ -1,5 +1,5 @@
 name: 紹介パートナー応募
-description: ¥49,000パイロットまたは月額¥98,000 Team Packの成功報酬紹介を事前登録します
+description: ¥49,000パイロット、月額¥98,000または年額¥980,000 Team Packの成功報酬紹介を事前登録します
 title: "[Referral] "
 labels:
   - referral
@@ -10,8 +10,9 @@ body:
         課題が合う買い手を紹介するパートナー向けの事前登録フォームです。登録料・広告費・初期費用は不要です。
         
         - 固定パイロット：入金¥49,000の20%＝報酬¥9,800
-        - Automation Team Pack：初月入金¥98,000の20%＝報酬¥19,600
-        - 更新月は別途の書面合意がない限り対象外
+        - Automation Team Pack月額：初月入金¥98,000の20%＝報酬¥19,600
+        - Automation Team Pack年額前払い：入金¥980,000の10%＝報酬¥98,000
+        - 月額プランの更新月は別途の書面合意がない限り対象外
         - 紹介前の受付確認、帰属確認、顧客入金、取消・返金なしが支払条件
         
         買い手の個人情報、勤務先の非公開情報、顧客情報、機密情報は記載しないでください。
@@ -22,8 +23,9 @@ body:
       description: 紹介を希望する商品を選択してください。
       options:
         - 固定パイロット（買い手価格¥49,000／報酬¥9,800）
-        - Automation Team Pack（初月¥98,000／報酬¥19,600）
-        - 両方
+        - Automation Team Pack月額（初月¥98,000／報酬¥19,600）
+        - Automation Team Pack年額前払い（¥980,000／報酬¥98,000）
+        - パイロットとTeam Packの両方
     validations:
       required: true
   - type: textarea
@@ -46,7 +48,7 @@ body:
     id: fit
     attributes:
       label: 適合理由
-      description: 買い手層のどの反復業務を、どちらのオファーで解決できると考えるか記載してください。
+      description: 買い手層のどの反復業務を、どのオファーと請求周期で解決できると考えるか記載してください。
     validations:
       required: true
   - type: input
