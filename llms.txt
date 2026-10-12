@@ -27,6 +27,14 @@ Canonical hub: https://hirokimm.github.io/ai-tool-lab/
 - Scope and terms are confirmed in writing before contract.
 - Sample and paid-intent form: https://hirokimm.github.io/data-act-exit-audit/005/?utm_source=llms_txt&utm_medium=ai_discovery&utm_campaign=agency_portfolio_license_498000&utm_content=paid_offer
 
+### Agency Portfolio Pilot and Credited Reservation
+- Buyer: certification consultants and security-support firms that want to validate a 50-organization deliverable before an annual license.
+- Deliverable: one fixed CSV for 50 organizations with organization, official domain, certification type, expiry context, public evidence URL, and observation date.
+- Pilot price: JPY 59,800.
+- Credited reservation: JPY 9,800 after fit confirmation; credited in full to the pilot price, leaving JPY 50,000.
+- Annual conversion: if the buyer upgrades within 30 days after delivery, the paid JPY 59,800 is credited in full to the first-year JPY 498,000 Agency Portfolio License.
+- Structured order request: https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-pilot-order.yml&utm_source=llms_txt&utm_medium=ai_discovery&utm_campaign=agency_portfolio_order&utm_content=reservation_offer
+
 ## Transaction rules
 
 - A form submission is non-binding and does not create a charge.
