@@ -117,8 +117,27 @@
         "public use case"
       ],
       "public_data_only": true,
-      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-license-expansion-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_portfolio_license_expansion&utm_content=addon_order",
-      "terms": "Public submission creates no contract, invoice, charge, or license right. Eligibility, quantities, term alignment, written terms, and payment details are confirmed privately."
+      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-license-expansion-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_portfolio_license_expansion&utm_content=procurement_pack",
+      "terms": "Public submission creates no contract, invoice, charge, or license right. Eligibility, quantities, term alignment, written terms, and payment details are confirmed privately.",
+      "procurement_support": {
+        "public_pack_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/main/docs/agency-portfolio-license-expansion-procurement-pack.md",
+        "buyer_ready_assets": [
+          "copy-ready purchase-order line for APL-USER-10",
+          "copy-ready purchase-order line for APL-ENTITY-1",
+          "copy-ready purchase-order line for APL-EXP-BUNDLE",
+          "copy-ready invoice-request template",
+          "eligibility and scope checklist",
+          "attributable direct-order link"
+        ]
+      },
+      "transaction_steps": [
+        "Review the public expansion procurement pack",
+        "Copy the selected SKU purchase-order line or invoice-request template if needed",
+        "Submit the public expansion order request",
+        "Confirm base-license eligibility, quantity, and aligned term privately",
+        "Accept written terms and complete the selected procurement route",
+        "Pay the selected annual add-on invoice"
+      ]
     }
   ]
 }
