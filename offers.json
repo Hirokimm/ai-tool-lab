@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-13",
+  "version": "2026-10-14",
   "publisher": {
     "name": "AI Venture Factory",
     "url": "https://aiventurefactory117.com/"
@@ -197,6 +197,45 @@
         "Accept written terms and complete the selected procurement route",
         "Pay the JPY 298,000 annual add-on invoice"
       ]
+    },
+    {
+      "id": "agency-portfolio-client-deliverable-reuse-plus-75",
+      "name": "Agency Portfolio License Client-Deliverable Reuse Plus",
+      "offer_type": "annual_license_addon",
+      "sku": "APL-CLIENT-REUSE-75",
+      "annual_price": 598000,
+      "eligibility": "Active or simultaneously procured Agency Portfolio License, with eligibility, term alignment, named-client scope, and accepted outputs confirmed privately",
+      "scope": {
+        "end_client_organizations_max": 75,
+        "intended_buyer_band": "Agencies and advisory teams expecting to serve 26–75 named end-client organizations annually",
+        "allowed_outputs": [
+          "client-specific written reports or memos",
+          "client-specific presentations",
+          "derived charts or tables",
+          "internal advisory workpapers supporting a client deliverable"
+        ]
+      },
+      "delivery_effect": "Adds derived client-deliverable reuse rights to the same licensed dataset and delivery cadence; does not add organizations to the dataset, custom research, or a faster delivery cadence",
+      "prohibited_uses": [
+        "raw dataset redistribution",
+        "sublicensing",
+        "resale of dataset access",
+        "white-label data portal or API",
+        "bulk public republication",
+        "use outside the accepted written scope"
+      ],
+      "intent_fields": [
+        "base-license status",
+        "annual end-client organization band",
+        "intended deliverable types",
+        "desired start timing",
+        "invoice intent",
+        "procurement route",
+        "public-safe use case"
+      ],
+      "public_data_only": true,
+      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-plus-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_plus&utm_content=plus_order",
+      "terms": "Public submission creates no contract, invoice, charge, reservation, or license right. Eligibility, named-client scope, accepted outputs, term alignment, written terms, and payment details are confirmed privately."
     }
   ]
 }
