@@ -73,6 +73,52 @@
       ],
       "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-license-reservation-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_portfolio_license_reservation_49800&utm_content=procurement_pack",
       "terms": "Public submission creates no contract, invoice, or charge. Billing and confidential information move to a private channel only after fit confirmation. Reservation treatment, cancellation, and refunds are governed by accepted written terms."
+    },
+    {
+      "id": "agency-portfolio-license-expansion-addons",
+      "name": "Agency Portfolio License annual expansion add-ons",
+      "offer_type": "annual_license_addon",
+      "eligibility": "Active or in-procurement Agency Portfolio License, with eligibility and term alignment confirmed privately",
+      "pricing": [
+        {
+          "sku": "APL-USER-10",
+          "name": "Additional 10-user pack",
+          "annual_price": 49800,
+          "adds": {
+            "users": 10
+          }
+        },
+        {
+          "sku": "APL-ENTITY-1",
+          "name": "Additional legal-entity usage right",
+          "annual_price": 99800,
+          "adds": {
+            "legal_entities": 1
+          }
+        },
+        {
+          "sku": "APL-EXP-BUNDLE",
+          "name": "10-user plus legal-entity bundle",
+          "annual_price": 129800,
+          "adds": {
+            "users": 10,
+            "legal_entities": 1
+          }
+        }
+      ],
+      "delivery_effect": "Expands usage rights to the same licensed dataset and delivery cadence; does not add organizations, custom research, or a new dataset",
+      "intent_fields": [
+        "base-license status",
+        "selected add-on",
+        "quantity",
+        "desired start timing",
+        "invoice intent",
+        "procurement route",
+        "public use case"
+      ],
+      "public_data_only": true,
+      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-license-expansion-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_portfolio_license_expansion&utm_content=addon_order",
+      "terms": "Public submission creates no contract, invoice, charge, or license right. Eligibility, quantities, term alignment, written terms, and payment details are confirmed privately."
     }
   ]
 }
