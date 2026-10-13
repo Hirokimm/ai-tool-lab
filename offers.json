@@ -14,6 +14,13 @@
       "first_year_price": 498000,
       "reservation_credit": 49800,
       "remaining_first_year_balance": 448200,
+      "reservation_benefit": {
+        "benefit_type": "first_year_price_lock",
+        "locked_first_year_price": 498000,
+        "lock_period_days": 30,
+        "activation": "After buyer fit is confirmed, written terms are accepted, and the JPY 49,800 reservation payment clears",
+        "expiry": "The final order must be executed within 30 calendar days after activation; later pricing may apply after expiry"
+      },
       "scope": {
         "organizations_max": 500,
         "delivery": "12 monthly differential CSV updates",
@@ -27,14 +34,15 @@
         "Confirm scope and acceptance criteria",
         "Accept private written terms",
         "Complete the selected procurement route",
-        "Pay the JPY 49,800 reservation invoice"
+        "Pay the JPY 49,800 reservation invoice",
+        "Execute the final order within the 30-day first-year price-lock period"
       ],
       "procurement_routes": [
         "Invoice after accepted written terms; no purchase order expected",
         "Purchase order after accepted written terms"
       ],
-      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-license-reservation-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_portfolio_license_reservation_49800&utm_content=procurement_route",
-      "terms": "Public submission creates no contract, invoice, or charge. Billing and confidential information move to a private channel only after fit confirmation."
+      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-license-reservation-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_portfolio_license_reservation_49800&utm_content=price_lock",
+      "terms": "Public submission creates no contract, invoice, or charge. Billing and confidential information move to a private channel only after fit confirmation. Reservation treatment, cancellation, and refunds are governed by accepted written terms."
     }
   ]
 }
