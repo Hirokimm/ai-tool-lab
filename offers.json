@@ -175,7 +175,28 @@
       ],
       "public_data_only": true,
       "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse&utm_content=addon_order",
-      "terms": "Public submission creates no contract, invoice, charge, or license right. Eligibility, named-client scope, accepted outputs, term alignment, written terms, and payment details are confirmed privately."
+      "terms": "Public submission creates no contract, invoice, charge, or license right. Eligibility, named-client scope, accepted outputs, term alignment, written terms, and payment details are confirmed privately.",
+      "procurement_support": {
+        "procurement_reference": "APL-CLIENT-REUSE-25",
+        "public_pack_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/main/docs/agency-portfolio-client-deliverable-reuse-procurement-pack.md",
+        "buyer_ready_assets": [
+          "copy-ready purchase-order line for APL-CLIENT-REUSE-25",
+          "copy-ready invoice-request template",
+          "commercial summary",
+          "permitted-output and excluded-use matrix",
+          "internal approval checklist",
+          "attributable direct-order link"
+        ],
+        "direct_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse&utm_content=procurement_pack"
+      },
+      "transaction_steps": [
+        "Review the public Client-Deliverable Reuse procurement pack",
+        "Copy the purchase-order line or invoice-request template if needed",
+        "Submit the public reuse add-on order request",
+        "Confirm base-license eligibility, end-client band, accepted outputs, and aligned term privately",
+        "Accept written terms and complete the selected procurement route",
+        "Pay the JPY 298,000 annual add-on invoice"
+      ]
     }
   ]
 }
