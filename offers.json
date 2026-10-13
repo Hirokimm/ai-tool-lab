@@ -1,0 +1,40 @@
+{
+  "version": "2026-10-13",
+  "publisher": {
+    "name": "AI Venture Factory",
+    "url": "https://aiventurefactory117.com/"
+  },
+  "currency": "JPY",
+  "offers": [
+    {
+      "id": "agency-portfolio-license-reservation-49800",
+      "name": "Agency Portfolio License kickoff reservation",
+      "offer_type": "paid_reservation",
+      "reservation_price": 49800,
+      "first_year_price": 498000,
+      "reservation_credit": 49800,
+      "remaining_first_year_balance": 448200,
+      "scope": {
+        "organizations_max": 500,
+        "delivery": "12 monthly differential CSV updates",
+        "users_max": 10,
+        "legal_entity_limit": 1
+      },
+      "buyer_fit": "Agencies and advisory teams monitoring public certification evidence across multiple organizations",
+      "public_data_only": true,
+      "transaction_steps": [
+        "Submit the public order request",
+        "Confirm scope and acceptance criteria",
+        "Accept private written terms",
+        "Complete the selected procurement route",
+        "Pay the JPY 49,800 reservation invoice"
+      ],
+      "procurement_routes": [
+        "Invoice after accepted written terms; no purchase order expected",
+        "Purchase order after accepted written terms"
+      ],
+      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-license-reservation-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_portfolio_license_reservation_49800&utm_content=procurement_route",
+      "terms": "Public submission creates no contract, invoice, or charge. Billing and confidential information move to a private channel only after fit confirmation."
+    }
+  ]
+}
