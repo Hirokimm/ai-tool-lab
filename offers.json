@@ -35,6 +35,19 @@
         ],
         "privacy": "Buyer, billing, procurement, and confidential scope details are completed privately and are not published."
       },
+      "procurement_support": {
+        "procurement_reference": "APL-RES-49800",
+        "public_pack_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/main/docs/agency-portfolio-license-reservation-procurement-pack.md",
+        "buyer_ready_assets": [
+          "copy-ready purchase-order line item",
+          "copy-ready invoice-request line item",
+          "commercial summary",
+          "bounded license scope",
+          "procurement routes",
+          "post-payment confirmation artifact",
+          "attributable direct-order link"
+        ]
+      },
       "scope": {
         "organizations_max": 500,
         "delivery": "12 monthly differential CSV updates",
@@ -44,7 +57,8 @@
       "buyer_fit": "Agencies and advisory teams monitoring public certification evidence across multiple organizations",
       "public_data_only": true,
       "transaction_steps": [
-        "Review the public reservation-confirmation template",
+        "Review the public procurement pack and reservation-confirmation template",
+        "Copy the purchase-order or invoice-request line item if needed",
         "Submit the public order request",
         "Confirm scope and acceptance criteria",
         "Accept private written terms",
@@ -57,7 +71,7 @@
         "Invoice after accepted written terms; no purchase order expected",
         "Purchase order after accepted written terms"
       ],
-      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-license-reservation-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_portfolio_license_reservation_49800&utm_content=reservation_confirmation_template",
+      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-license-reservation-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_portfolio_license_reservation_49800&utm_content=procurement_pack",
       "terms": "Public submission creates no contract, invoice, or charge. Billing and confidential information move to a private channel only after fit confirmation. Reservation treatment, cancellation, and refunds are governed by accepted written terms."
     }
   ]
