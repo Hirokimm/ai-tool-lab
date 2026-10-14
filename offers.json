@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-14",
+  "version": "2026-10-15",
   "publisher": {
     "name": "AI Venture Factory",
     "url": "https://aiventurefactory117.com/"
@@ -1090,6 +1090,64 @@
         ],
         "direct_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-plus-2500-reservation-order.yml&utm_source=procurement_pack&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_plus_2500_reservation&utm_content=po_invoice_copy"
       }
+    },
+    {
+      "id": "agency-portfolio-client-deliverable-reuse-global-1000-reservation-49800",
+      "name": "Client-Deliverable Reuse Global 1K kickoff reservation",
+      "offer_type": "paid_reservation",
+      "sku": "APL-CLIENT-REUSE-1000-RES",
+      "reservation_price": 49800,
+      "annual_price": 3980000,
+      "reservation_credit": 49800,
+      "remaining_annual_balance": 3930200,
+      "reservation_benefit": {
+        "benefit_type": "annual_price_lock",
+        "locked_annual_price": 3980000,
+        "lock_period_days": 30,
+        "activation": "After base-license eligibility and scope are confirmed, written terms are accepted, and the JPY 49,800 reservation payment clears",
+        "expiry": "The final annual order must be executed within 30 calendar days after activation; later pricing may apply after expiry"
+      },
+      "eligibility": "Active or simultaneously procured Agency Portfolio License, with eligibility, term alignment, 501–1,000 named-client scope, and accepted outputs confirmed privately",
+      "scope": {
+        "end_client_organizations_max": 1000,
+        "intended_buyer_band": "Agency networks, multi-office advisory groups, and professional-services platforms expecting to serve 501–1,000 named end-client organizations annually"
+      },
+      "intent_fields": [
+        "base-license status",
+        "501–1,000 annual end-client organization band",
+        "intended deliverable types",
+        "transaction readiness",
+        "reservation invoice intent",
+        "procurement route",
+        "public organization URL",
+        "public-safe use case"
+      ],
+      "reservation_confirmation": {
+        "artifact_type": "private_buyer_confirmation",
+        "issued_after": "Eligibility confirmation, accepted written terms, and cleared JPY 49,800 reservation payment",
+        "records": [
+          "30-day annual-price-lock activation and expiry dates",
+          "JPY 49,800 reservation credit",
+          "JPY 3,930,200 remaining annual balance",
+          "selected procurement route",
+          "501–1,000 named-client band",
+          "accepted output scope"
+        ],
+        "privacy": "Buyer, billing, client, procurement, and confidential scope details are completed privately and are not published."
+      },
+      "public_data_only": true,
+      "transaction_steps": [
+        "Review the public Client-Deliverable Reuse Global 1K reservation offer",
+        "Confirm the JPY 49,800 reservation amount, full annual-price credit, JPY 3,930,200 remaining balance, and 30-day lock conditions",
+        "Submit the public 1K reservation request",
+        "Confirm base-license eligibility, named-client band, accepted outputs, tax, and procurement route privately",
+        "Accept written reservation terms",
+        "Pay the JPY 49,800 reservation invoice",
+        "Receive the private reservation confirmation",
+        "Execute the JPY 3,980,000 annual order within the 30-day price-lock period and pay the JPY 3,930,200 remaining balance"
+      ],
+      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-1k-reservation-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_1k_reservation&utm_content=paid_reservation",
+      "terms": "Public submission creates no contract, invoice, charge, reservation, price lock, or license right. Reservation treatment, cancellation, refunds, eligibility, written terms, tax, billing, and payment details are confirmed privately."
     }
   ]
 }
