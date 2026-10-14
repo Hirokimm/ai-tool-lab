@@ -885,6 +885,52 @@
         ],
         "direct_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-network-20k-reservation-order.yml&utm_source=procurement_pack&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_network_20k_reservation&utm_content=po_invoice_copy"
       }
+    },
+    {
+      "id": "agency-portfolio-client-deliverable-reuse-global-network-10000-reservation-298000",
+      "name": "Client-Deliverable Reuse Global Network 10K kickoff reservation",
+      "offer_type": "paid_reservation",
+      "sku": "APL-CLIENT-REUSE-10000-RES",
+      "reservation_price": 298000,
+      "annual_price": 27980000,
+      "reservation_credit": 298000,
+      "remaining_annual_balance": 27682000,
+      "reservation_benefit": {
+        "benefit_type": "annual_price_lock",
+        "locked_annual_price": 27980000,
+        "lock_period_days": 30,
+        "activation": "After base-license eligibility and scope are confirmed, written terms are accepted, and the JPY 298,000 reservation payment clears",
+        "expiry": "The final annual order must be executed within 30 calendar days after activation; later pricing may apply after expiry"
+      },
+      "eligibility": "Active or simultaneously procured Agency Portfolio License, with eligibility, term alignment, 5,001–10,000 named-client scope, and accepted outputs confirmed privately",
+      "scope": {
+        "end_client_organizations_max": 10000,
+        "intended_buyer_band": "Global agency networks, multinational advisory groups, and large professional-services platforms expecting to serve 5,001–10,000 named end-client organizations annually"
+      },
+      "reservation_confirmation": {
+        "artifact_type": "private_buyer_confirmation",
+        "issued_after": "Eligibility confirmation, accepted written terms, and cleared JPY 298,000 reservation payment",
+        "records": [
+          "30-day annual-price-lock activation and expiry dates",
+          "JPY 298,000 reservation credit",
+          "JPY 27,682,000 remaining annual balance",
+          "selected procurement route",
+          "5,001–10,000 named-client band",
+          "accepted output scope"
+        ],
+        "privacy": "Buyer, billing, client, procurement, and confidential scope details are completed privately and are not published."
+      },
+      "public_data_only": true,
+      "transaction_steps": [
+        "Submit the public 10K reservation request",
+        "Confirm base-license eligibility, named-client band, accepted outputs, tax, and procurement route privately",
+        "Accept written reservation terms",
+        "Pay the JPY 298,000 reservation invoice",
+        "Receive the private reservation confirmation",
+        "Execute the JPY 27,980,000 annual order within the 30-day price-lock period and pay the JPY 27,682,000 remaining balance"
+      ],
+      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-network-10k-reservation-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_network_10k_reservation&utm_content=paid_reservation",
+      "terms": "Public submission creates no contract, invoice, charge, reservation, price lock, or license right. Reservation treatment, cancellation, refunds, eligibility, written terms, tax, billing, and payment details are confirmed privately."
     }
   ]
 }
