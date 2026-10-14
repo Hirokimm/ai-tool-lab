@@ -857,6 +857,9 @@
       },
       "public_data_only": true,
       "transaction_steps": [
+        "Review the public Client-Deliverable Reuse Global Network 20K reservation procurement pack",
+        "Confirm the JPY 498,000 reservation amount, full annual-price credit, JPY 49,302,000 remaining balance, and 30-day lock conditions",
+        "Copy the purchase-order line or reservation invoice-request template if needed",
         "Submit the public 20K reservation request",
         "Confirm base-license eligibility, named-client band, accepted outputs, tax, and procurement route privately",
         "Accept written reservation terms",
@@ -864,8 +867,24 @@
         "Receive the private reservation confirmation",
         "Execute the JPY 49,800,000 annual order within the 30-day price-lock period and pay the JPY 49,302,000 remaining balance"
       ],
-      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-network-20k-reservation-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_network_20k_reservation&utm_content=paid_reservation",
-      "terms": "Public submission creates no contract, invoice, charge, reservation, price lock, or license right. Reservation treatment, cancellation, refunds, eligibility, written terms, tax, billing, and payment details are confirmed privately."
+      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-network-20k-reservation-order.yml&utm_source=procurement_pack&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_network_20k_reservation&utm_content=po_invoice_copy",
+      "terms": "Public submission creates no contract, invoice, charge, reservation, price lock, or license right. Reservation treatment, cancellation, refunds, eligibility, written terms, tax, billing, and payment details are confirmed privately.",
+      "procurement_support": {
+        "procurement_reference": "APL-CLIENT-REUSE-20000-RES",
+        "public_pack_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/main/docs/agency-portfolio-client-deliverable-reuse-global-network-20k-reservation-procurement-pack.md",
+        "buyer_ready_assets": [
+          "copy-ready JPY 498,000 purchase-order line",
+          "copy-ready reservation invoice-request template",
+          "commercial summary with JPY 49,800,000 annual price",
+          "full-credit and JPY 49,302,000 remaining-balance explanation",
+          "30-calendar-day price-lock conditions",
+          "permitted-output and excluded-use summary",
+          "internal approval checklist",
+          "private reservation-confirmation field list",
+          "attributable direct-reservation link"
+        ],
+        "direct_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-network-20k-reservation-order.yml&utm_source=procurement_pack&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_network_20k_reservation&utm_content=po_invoice_copy"
+      }
     }
   ]
 }
