@@ -569,6 +569,45 @@
         "Accept written terms and complete the selected procurement route",
         "Pay the JPY 14,980,000 annual add-on invoice"
       ]
+    },
+    {
+      "id": "agency-portfolio-client-deliverable-reuse-global-network-10000",
+      "name": "Agency Portfolio License Client-Deliverable Reuse Global Network",
+      "offer_type": "annual_license_addon",
+      "sku": "APL-CLIENT-REUSE-10000",
+      "annual_price": 27980000,
+      "eligibility": "Active or simultaneously procured Agency Portfolio License, with eligibility, term alignment, named-client scope, and accepted outputs confirmed privately",
+      "scope": {
+        "end_client_organizations_max": 10000,
+        "intended_buyer_band": "Global agency networks, multinational advisory groups, and large professional-services platforms expecting to serve 5,001–10,000 named end-client organizations annually",
+        "allowed_outputs": [
+          "client-specific written reports or memos",
+          "client-specific presentations",
+          "derived charts or tables",
+          "internal advisory workpapers supporting a client deliverable"
+        ]
+      },
+      "delivery_effect": "Adds derived client-deliverable reuse rights to the same licensed dataset and delivery cadence; does not add organizations to the dataset, custom research, implementation work, or a faster delivery cadence",
+      "prohibited_uses": [
+        "raw dataset redistribution",
+        "sublicensing",
+        "resale of dataset access",
+        "white-label data portal or API",
+        "bulk public republication",
+        "use outside the accepted written scope"
+      ],
+      "intent_fields": [
+        "base-license status",
+        "annual end-client organization band",
+        "intended deliverable types",
+        "desired start timing",
+        "invoice intent",
+        "procurement route",
+        "public-safe use case"
+      ],
+      "public_data_only": true,
+      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-network-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_network&utm_content=global_network_order",
+      "terms": "Public submission creates no contract, invoice, charge, reservation, or license right. Eligibility, named-client scope, accepted outputs, term alignment, written terms, and payment details are confirmed privately."
     }
   ]
 }
