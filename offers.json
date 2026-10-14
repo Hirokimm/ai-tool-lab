@@ -730,14 +730,31 @@
         "public-safe use case"
       ],
       "public_data_only": true,
-      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-network-50k-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_network_50k&utm_content=network_50k_order",
+      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-network-50k-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_network_50k&utm_content=procurement_pack",
       "terms": "Public submission creates no contract, invoice, charge, reservation, or license right. Eligibility, named-client scope, accepted outputs, term alignment, tax, written terms, and payment details are confirmed privately.",
       "transaction_steps": [
+        "Review the public Client-Deliverable Reuse Global Network 50K procurement pack",
+        "Use the ten-tier comparison to confirm the 20,001–50,000-client option",
+        "Copy the purchase-order line or invoice-request template if needed",
         "Submit the public Reuse Global Network 50K order request",
-        "Confirm base-license eligibility, the 20,001–50,000 end-client band, accepted outputs, aligned term, tax, and procurement route privately",
+        "Confirm base-license eligibility, end-client band, accepted outputs, aligned term, tax, and procurement route privately",
         "Accept written terms and complete the selected procurement route",
         "Pay the JPY 99,800,000 annual add-on invoice"
-      ]
+      ],
+      "procurement_support": {
+        "procurement_reference": "APL-CLIENT-REUSE-50000",
+        "public_pack_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/main/docs/agency-portfolio-client-deliverable-reuse-global-network-50k-procurement-pack.md",
+        "buyer_ready_assets": [
+          "copy-ready purchase-order line for APL-CLIENT-REUSE-50000",
+          "copy-ready invoice-request template",
+          "commercial summary",
+          "ten-tier client-count and price comparison",
+          "permitted-output and excluded-use matrix",
+          "internal approval checklist",
+          "attributable direct-order link"
+        ],
+        "direct_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-network-50k-order.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_network_50k&utm_content=procurement_pack"
+      }
     }
   ]
 }
