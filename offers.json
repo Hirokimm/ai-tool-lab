@@ -884,6 +884,12 @@
           "attributable direct-reservation link"
         ],
         "direct_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-network-20k-reservation-order.yml&utm_source=procurement_pack&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_network_20k_reservation&utm_content=po_invoice_copy"
+      },
+      "tier_selection_guide": {
+        "guide_id": "client-deliverable-reuse-global-reservation-tier-selection",
+        "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/main/docs/agency-portfolio-client-deliverable-reuse-global-reservation-tier-selection-guide.md",
+        "selection_rule": "Choose the smallest tier whose maximum covers the buyer's reasonable annual forecast of distinct named end-client organizations.",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-network-20k-reservation-order.yml&utm_source=tier_guide&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_tier_selection&utm_content=global_network_20000"
       }
     },
     {
@@ -949,6 +955,12 @@
           "attributable direct-reservation link"
         ],
         "direct_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-network-10k-reservation-order.yml&utm_source=procurement_pack&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_network_10k_reservation&utm_content=po_invoice_copy"
+      },
+      "tier_selection_guide": {
+        "guide_id": "client-deliverable-reuse-global-reservation-tier-selection",
+        "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/main/docs/agency-portfolio-client-deliverable-reuse-global-reservation-tier-selection-guide.md",
+        "selection_rule": "Choose the smallest tier whose maximum covers the buyer's reasonable annual forecast of distinct named end-client organizations.",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-network-10k-reservation-order.yml&utm_source=tier_guide&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_tier_selection&utm_content=global_network_10000"
       }
     },
     {
@@ -1014,6 +1026,12 @@
           "attributable direct-reservation link"
         ],
         "direct_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-scale-5k-reservation-order.yml&utm_source=procurement_pack&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_scale_5k_reservation&utm_content=po_invoice_copy"
+      },
+      "tier_selection_guide": {
+        "guide_id": "client-deliverable-reuse-global-reservation-tier-selection",
+        "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/main/docs/agency-portfolio-client-deliverable-reuse-global-reservation-tier-selection-guide.md",
+        "selection_rule": "Choose the smallest tier whose maximum covers the buyer's reasonable annual forecast of distinct named end-client organizations.",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-scale-5k-reservation-order.yml&utm_source=tier_guide&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_tier_selection&utm_content=global_scale_5000"
       }
     },
     {
@@ -1123,6 +1141,12 @@
         "copy_ready_internal_approval_summary": true,
         "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-plus-2500-reservation-order.yml&utm_source=business_case&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_plus_2500_reservation&utm_content=roi_break_even_memo",
         "disclaimer": "Illustrative buyer-supplied assumptions only; no revenue, savings, productivity, adoption, or ROI outcome is promised."
+      },
+      "tier_selection_guide": {
+        "guide_id": "client-deliverable-reuse-global-reservation-tier-selection",
+        "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/main/docs/agency-portfolio-client-deliverable-reuse-global-reservation-tier-selection-guide.md",
+        "selection_rule": "Choose the smallest tier whose maximum covers the buyer's reasonable annual forecast of distinct named end-client organizations.",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-plus-2500-reservation-order.yml&utm_source=tier_guide&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_tier_selection&utm_content=global_plus_2500"
       }
     },
     {
@@ -1198,7 +1222,42 @@
           "attributable direct-reservation link"
         ],
         "direct_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-1k-reservation-order.yml&utm_source=procurement_pack&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_1k_reservation&utm_content=po_invoice_copy"
+      },
+      "tier_selection_guide": {
+        "guide_id": "client-deliverable-reuse-global-reservation-tier-selection",
+        "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/main/docs/agency-portfolio-client-deliverable-reuse-global-reservation-tier-selection-guide.md",
+        "selection_rule": "Choose the smallest tier whose maximum covers the buyer's reasonable annual forecast of distinct named end-client organizations.",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-1k-reservation-order.yml&utm_source=tier_guide&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_tier_selection&utm_content=global_1k"
       }
+    }
+  ],
+  "buyer_guides": [
+    {
+      "id": "client-deliverable-reuse-global-reservation-tier-selection",
+      "name": "Client-Deliverable Reuse Global reservation tier selection guide",
+      "asset_type": "buyer_decision_guide",
+      "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/main/docs/agency-portfolio-client-deliverable-reuse-global-reservation-tier-selection-guide.md",
+      "coverage": {
+        "named_end_client_organizations_min": 501,
+        "named_end_client_organizations_max": 20000,
+        "tiers": 5
+      },
+      "compares": [
+        "intended named-client band",
+        "maximum named-client capacity",
+        "reservation price",
+        "annual price",
+        "full-credit treatment",
+        "remaining annual balance",
+        "approximate annual cost per named end-client organization",
+        "procurement pack",
+        "attributable reservation path"
+      ],
+      "selection_rule": "Choose the smallest tier whose maximum covers the buyer's reasonable annual forecast of distinct named end-client organizations.",
+      "approval_checklist_items": 9,
+      "reservation_credit": "Each listed reservation is credited in full toward its selected annual price after cleared payment, subject to accepted written terms.",
+      "price_lock": "30 calendar days after the applicable activation conditions are satisfied.",
+      "disclaimer": "Public submission creates no contract, invoice, charge, reservation, price lock, or license right. Final scope is governed by accepted written terms."
     }
   ]
 }
