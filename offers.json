@@ -1062,6 +1062,7 @@
       },
       "public_data_only": true,
       "transaction_steps": [
+        "Review the public 2.5K buyer business case and test unit cost, contribution, and realizable-time assumptions",
         "Review the public Client-Deliverable Reuse Global Plus 2.5K reservation procurement pack",
         "Confirm the JPY 98,000 reservation amount, full annual-price credit, JPY 7,882,000 remaining balance, and 30-day lock conditions",
         "Copy the purchase-order line or reservation invoice-request template if needed",
@@ -1072,7 +1073,7 @@
         "Receive the private reservation confirmation",
         "Execute the JPY 7,980,000 annual order within the 30-day price-lock period and pay the JPY 7,882,000 remaining balance"
       ],
-      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-plus-2500-reservation-order.yml&utm_source=procurement_pack&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_plus_2500_reservation&utm_content=po_invoice_copy",
+      "order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-plus-2500-reservation-order.yml&utm_source=business_case&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_plus_2500_reservation&utm_content=roi_break_even_memo",
       "terms": "Public submission creates no contract, invoice, charge, reservation, price lock, or license right. Reservation treatment, cancellation, refunds, eligibility, written terms, tax, billing, and payment details are confirmed privately.",
       "procurement_support": {
         "procurement_reference": "APL-CLIENT-REUSE-2500-RES",
@@ -1086,9 +1087,42 @@
           "permitted-output and excluded-use summary",
           "internal approval checklist",
           "private reservation-confirmation field list",
-          "attributable direct-reservation link"
+          "attributable direct-reservation link",
+          "buyer business case with unit-cost and break-even tables",
+          "copy-ready internal approval summary and seven decision gates"
         ],
         "direct_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-plus-2500-reservation-order.yml&utm_source=procurement_pack&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_plus_2500_reservation&utm_content=po_invoice_copy"
+      },
+      "buyer_business_case": {
+        "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/main/docs/agency-portfolio-client-deliverable-reuse-global-plus-2500-buyer-business-case.md",
+        "purpose": "Buyer-side economic evaluation and internal approval for the JPY 7,980,000 annual add-on before submitting the JPY 98,000 reservation request",
+        "unit_cost_examples": [
+          {
+            "named_end_client_organizations": 1001,
+            "annual_cost_per_organization_approx_jpy": 7973
+          },
+          {
+            "named_end_client_organizations": 1500,
+            "annual_cost_per_organization_jpy": 5320
+          },
+          {
+            "named_end_client_organizations": 2000,
+            "annual_cost_per_organization_jpy": 3990
+          },
+          {
+            "named_end_client_organizations": 2500,
+            "annual_cost_per_organization_jpy": 3192
+          }
+        ],
+        "break_even_models": [
+          "incremental contribution per client engagement",
+          "realizable avoided production time",
+          "combined economic value and ROI"
+        ],
+        "decision_gates_count": 7,
+        "copy_ready_internal_approval_summary": true,
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-plus-2500-reservation-order.yml&utm_source=business_case&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_plus_2500_reservation&utm_content=roi_break_even_memo",
+        "disclaimer": "Illustrative buyer-supplied assumptions only; no revenue, savings, productivity, adoption, or ROI outcome is promised."
       }
     },
     {
