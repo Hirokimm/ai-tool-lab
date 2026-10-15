@@ -897,6 +897,14 @@
         "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=unified_invoice_intent",
         "use_when": "The buyer wants one public-safe form to select or privately confirm the correct 1K–20K tier and begin written-terms plus reservation-invoice processing.",
         "requested_next_step": "Confirm eligibility, tier, accepted outputs, tax, and procurement route privately before sending written terms or any invoice."
+      },
+      "budget_approval_memo": {
+        "guide_id": "client-deliverable-reuse-global-cross-tier-budget-approval",
+        "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/422b719065b11daff067b19de3065aca55f569b1/docs/agency-portfolio-client-deliverable-reuse-global-reservation-budget-approval-memo.md",
+        "purpose": "Cross-tier internal budget approval using reservation price, annual price, remaining balance, unit-cost examples, buyer-supplied contribution break-even assumptions, approval inputs, and decision gates.",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog_budget_approval&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=cross_tier_business_case",
+        "next_step": "Validate buyer assumptions privately, confirm the smallest eligible tier and accepted outputs, then proceed to written terms and the matching reservation invoice only after explicit buyer intent.",
+        "disclaimer": "Illustrative arithmetic only. The buyer must validate contribution, volume, adoption, timing, attribution, tax, payment, and procurement assumptions. Public submission creates no quote, contract, invoice, charge, reservation, price lock, or license right."
       }
     },
     {
@@ -975,6 +983,14 @@
         "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=unified_invoice_intent",
         "use_when": "The buyer wants one public-safe form to select or privately confirm the correct 1K–20K tier and begin written-terms plus reservation-invoice processing.",
         "requested_next_step": "Confirm eligibility, tier, accepted outputs, tax, and procurement route privately before sending written terms or any invoice."
+      },
+      "budget_approval_memo": {
+        "guide_id": "client-deliverable-reuse-global-cross-tier-budget-approval",
+        "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/422b719065b11daff067b19de3065aca55f569b1/docs/agency-portfolio-client-deliverable-reuse-global-reservation-budget-approval-memo.md",
+        "purpose": "Cross-tier internal budget approval using reservation price, annual price, remaining balance, unit-cost examples, buyer-supplied contribution break-even assumptions, approval inputs, and decision gates.",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog_budget_approval&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=cross_tier_business_case",
+        "next_step": "Validate buyer assumptions privately, confirm the smallest eligible tier and accepted outputs, then proceed to written terms and the matching reservation invoice only after explicit buyer intent.",
+        "disclaimer": "Illustrative arithmetic only. The buyer must validate contribution, volume, adoption, timing, attribution, tax, payment, and procurement assumptions. Public submission creates no quote, contract, invoice, charge, reservation, price lock, or license right."
       }
     },
     {
@@ -1053,6 +1069,14 @@
         "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=unified_invoice_intent",
         "use_when": "The buyer wants one public-safe form to select or privately confirm the correct 1K–20K tier and begin written-terms plus reservation-invoice processing.",
         "requested_next_step": "Confirm eligibility, tier, accepted outputs, tax, and procurement route privately before sending written terms or any invoice."
+      },
+      "budget_approval_memo": {
+        "guide_id": "client-deliverable-reuse-global-cross-tier-budget-approval",
+        "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/422b719065b11daff067b19de3065aca55f569b1/docs/agency-portfolio-client-deliverable-reuse-global-reservation-budget-approval-memo.md",
+        "purpose": "Cross-tier internal budget approval using reservation price, annual price, remaining balance, unit-cost examples, buyer-supplied contribution break-even assumptions, approval inputs, and decision gates.",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog_budget_approval&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=cross_tier_business_case",
+        "next_step": "Validate buyer assumptions privately, confirm the smallest eligible tier and accepted outputs, then proceed to written terms and the matching reservation invoice only after explicit buyer intent.",
+        "disclaimer": "Illustrative arithmetic only. The buyer must validate contribution, volume, adoption, timing, attribution, tax, payment, and procurement assumptions. Public submission creates no quote, contract, invoice, charge, reservation, price lock, or license right."
       }
     },
     {
@@ -1175,6 +1199,14 @@
         "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=unified_invoice_intent",
         "use_when": "The buyer wants one public-safe form to select or privately confirm the correct 1K–20K tier and begin written-terms plus reservation-invoice processing.",
         "requested_next_step": "Confirm eligibility, tier, accepted outputs, tax, and procurement route privately before sending written terms or any invoice."
+      },
+      "budget_approval_memo": {
+        "guide_id": "client-deliverable-reuse-global-cross-tier-budget-approval",
+        "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/422b719065b11daff067b19de3065aca55f569b1/docs/agency-portfolio-client-deliverable-reuse-global-reservation-budget-approval-memo.md",
+        "purpose": "Cross-tier internal budget approval using reservation price, annual price, remaining balance, unit-cost examples, buyer-supplied contribution break-even assumptions, approval inputs, and decision gates.",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog_budget_approval&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=cross_tier_business_case",
+        "next_step": "Validate buyer assumptions privately, confirm the smallest eligible tier and accepted outputs, then proceed to written terms and the matching reservation invoice only after explicit buyer intent.",
+        "disclaimer": "Illustrative arithmetic only. The buyer must validate contribution, volume, adoption, timing, attribution, tax, payment, and procurement assumptions. Public submission creates no quote, contract, invoice, charge, reservation, price lock, or license right."
       }
     },
     {
@@ -1263,6 +1295,14 @@
         "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=unified_invoice_intent",
         "use_when": "The buyer wants one public-safe form to select or privately confirm the correct 1K–20K tier and begin written-terms plus reservation-invoice processing.",
         "requested_next_step": "Confirm eligibility, tier, accepted outputs, tax, and procurement route privately before sending written terms or any invoice."
+      },
+      "budget_approval_memo": {
+        "guide_id": "client-deliverable-reuse-global-cross-tier-budget-approval",
+        "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/422b719065b11daff067b19de3065aca55f569b1/docs/agency-portfolio-client-deliverable-reuse-global-reservation-budget-approval-memo.md",
+        "purpose": "Cross-tier internal budget approval using reservation price, annual price, remaining balance, unit-cost examples, buyer-supplied contribution break-even assumptions, approval inputs, and decision gates.",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog_budget_approval&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=cross_tier_business_case",
+        "next_step": "Validate buyer assumptions privately, confirm the smallest eligible tier and accepted outputs, then proceed to written terms and the matching reservation invoice only after explicit buyer intent.",
+        "disclaimer": "Illustrative arithmetic only. The buyer must validate contribution, volume, adoption, timing, attribution, tax, payment, and procurement assumptions. Public submission creates no quote, contract, invoice, charge, reservation, price lock, or license right."
       }
     }
   ],
@@ -1293,6 +1333,36 @@
       "reservation_credit": "Each listed reservation is credited in full toward its selected annual price after cleared payment, subject to accepted written terms.",
       "price_lock": "30 calendar days after the applicable activation conditions are satisfied.",
       "disclaimer": "Public submission creates no contract, invoice, charge, reservation, price lock, or license right. Final scope is governed by accepted written terms."
+    },
+    {
+      "id": "client-deliverable-reuse-global-cross-tier-budget-approval",
+      "name": "Client-Deliverable Reuse Global cross-tier budget approval memo",
+      "asset_type": "buyer_business_case",
+      "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/422b719065b11daff067b19de3065aca55f569b1/docs/agency-portfolio-client-deliverable-reuse-global-reservation-budget-approval-memo.md",
+      "coverage": {
+        "named_end_client_organizations_min": 501,
+        "named_end_client_organizations_max": 20000,
+        "tiers": 5,
+        "linked_offer_ids": [
+          "agency-portfolio-client-deliverable-reuse-global-1000-reservation-49800",
+          "agency-portfolio-client-deliverable-reuse-global-plus-2500-reservation-98000",
+          "agency-portfolio-client-deliverable-reuse-global-scale-5000-reservation-198000",
+          "agency-portfolio-client-deliverable-reuse-global-network-10000-reservation-298000",
+          "agency-portfolio-client-deliverable-reuse-global-network-20000-reservation-498000"
+        ]
+      },
+      "buyer_decision_assets": {
+        "commercial_comparison": true,
+        "unit_cost_examples": 15,
+        "contribution_break_even_examples": 15,
+        "contribution_assumption_levels": 3,
+        "private_approval_inputs": 14,
+        "approval_gates": 10,
+        "copy_ready_internal_approval_summary": true
+      },
+      "selection_rule": "Choose the smallest tier whose maximum covers the buyer's reasonable annual forecast of distinct named end-client organizations.",
+      "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog_budget_approval&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=cross_tier_business_case",
+      "disclaimer": "Illustrative arithmetic only. The buyer must validate contribution, volume, adoption, timing, attribution, tax, payment, and procurement assumptions. Public submission creates no quote, contract, invoice, charge, reservation, price lock, or license right."
     }
   ],
   "buyer_transaction_surfaces": [
