@@ -890,6 +890,13 @@
         "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/main/docs/agency-portfolio-client-deliverable-reuse-global-reservation-tier-selection-guide.md",
         "selection_rule": "Choose the smallest tier whose maximum covers the buyer's reasonable annual forecast of distinct named end-client organizations.",
         "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-network-20k-reservation-order.yml&utm_source=tier_guide&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_tier_selection&utm_content=global_network_20000"
+      },
+      "unified_invoice_request": {
+        "surface_id": "client-deliverable-reuse-global-unified-reservation-invoice-request",
+        "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/574527ce6352f9c44ab6af3e355307ff10058d9e/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=unified_invoice_intent",
+        "use_when": "The buyer wants one public-safe form to select or privately confirm the correct 1K–20K tier and begin written-terms plus reservation-invoice processing.",
+        "requested_next_step": "Confirm eligibility, tier, accepted outputs, tax, and procurement route privately before sending written terms or any invoice."
       }
     },
     {
@@ -961,6 +968,13 @@
         "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/main/docs/agency-portfolio-client-deliverable-reuse-global-reservation-tier-selection-guide.md",
         "selection_rule": "Choose the smallest tier whose maximum covers the buyer's reasonable annual forecast of distinct named end-client organizations.",
         "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-network-10k-reservation-order.yml&utm_source=tier_guide&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_tier_selection&utm_content=global_network_10000"
+      },
+      "unified_invoice_request": {
+        "surface_id": "client-deliverable-reuse-global-unified-reservation-invoice-request",
+        "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/574527ce6352f9c44ab6af3e355307ff10058d9e/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=unified_invoice_intent",
+        "use_when": "The buyer wants one public-safe form to select or privately confirm the correct 1K–20K tier and begin written-terms plus reservation-invoice processing.",
+        "requested_next_step": "Confirm eligibility, tier, accepted outputs, tax, and procurement route privately before sending written terms or any invoice."
       }
     },
     {
@@ -1032,6 +1046,13 @@
         "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/main/docs/agency-portfolio-client-deliverable-reuse-global-reservation-tier-selection-guide.md",
         "selection_rule": "Choose the smallest tier whose maximum covers the buyer's reasonable annual forecast of distinct named end-client organizations.",
         "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-scale-5k-reservation-order.yml&utm_source=tier_guide&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_tier_selection&utm_content=global_scale_5000"
+      },
+      "unified_invoice_request": {
+        "surface_id": "client-deliverable-reuse-global-unified-reservation-invoice-request",
+        "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/574527ce6352f9c44ab6af3e355307ff10058d9e/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=unified_invoice_intent",
+        "use_when": "The buyer wants one public-safe form to select or privately confirm the correct 1K–20K tier and begin written-terms plus reservation-invoice processing.",
+        "requested_next_step": "Confirm eligibility, tier, accepted outputs, tax, and procurement route privately before sending written terms or any invoice."
       }
     },
     {
@@ -1147,6 +1168,13 @@
         "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/main/docs/agency-portfolio-client-deliverable-reuse-global-reservation-tier-selection-guide.md",
         "selection_rule": "Choose the smallest tier whose maximum covers the buyer's reasonable annual forecast of distinct named end-client organizations.",
         "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-plus-2500-reservation-order.yml&utm_source=tier_guide&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_tier_selection&utm_content=global_plus_2500"
+      },
+      "unified_invoice_request": {
+        "surface_id": "client-deliverable-reuse-global-unified-reservation-invoice-request",
+        "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/574527ce6352f9c44ab6af3e355307ff10058d9e/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=unified_invoice_intent",
+        "use_when": "The buyer wants one public-safe form to select or privately confirm the correct 1K–20K tier and begin written-terms plus reservation-invoice processing.",
+        "requested_next_step": "Confirm eligibility, tier, accepted outputs, tax, and procurement route privately before sending written terms or any invoice."
       }
     },
     {
@@ -1228,6 +1256,13 @@
         "public_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/main/docs/agency-portfolio-client-deliverable-reuse-global-reservation-tier-selection-guide.md",
         "selection_rule": "Choose the smallest tier whose maximum covers the buyer's reasonable annual forecast of distinct named end-client organizations.",
         "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-1k-reservation-order.yml&utm_source=tier_guide&utm_medium=buyer_enablement&utm_campaign=agency_client_deliverable_reuse_global_tier_selection&utm_content=global_1k"
+      },
+      "unified_invoice_request": {
+        "surface_id": "client-deliverable-reuse-global-unified-reservation-invoice-request",
+        "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/574527ce6352f9c44ab6af3e355307ff10058d9e/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=unified_invoice_intent",
+        "use_when": "The buyer wants one public-safe form to select or privately confirm the correct 1K–20K tier and begin written-terms plus reservation-invoice processing.",
+        "requested_next_step": "Confirm eligibility, tier, accepted outputs, tax, and procurement route privately before sending written terms or any invoice."
       }
     }
   ],
@@ -1258,6 +1293,55 @@
       "reservation_credit": "Each listed reservation is credited in full toward its selected annual price after cleared payment, subject to accepted written terms.",
       "price_lock": "30 calendar days after the applicable activation conditions are satisfied.",
       "disclaimer": "Public submission creates no contract, invoice, charge, reservation, price lock, or license right. Final scope is governed by accepted written terms."
+    }
+  ],
+  "buyer_transaction_surfaces": [
+    {
+      "id": "client-deliverable-reuse-global-unified-reservation-invoice-request",
+      "name": "Client-Deliverable Reuse Global unified reservation invoice request",
+      "surface_type": "cross_tier_paid_intent",
+      "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/574527ce6352f9c44ab6af3e355307ff10058d9e/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml",
+      "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=unified_invoice_intent",
+      "coverage": {
+        "named_end_client_organizations_min": 501,
+        "named_end_client_organizations_max": 20000,
+        "selectable_tiers": 5,
+        "linked_offer_ids": [
+          "agency-portfolio-client-deliverable-reuse-global-1000-reservation-49800",
+          "agency-portfolio-client-deliverable-reuse-global-plus-2500-reservation-98000",
+          "agency-portfolio-client-deliverable-reuse-global-scale-5000-reservation-198000",
+          "agency-portfolio-client-deliverable-reuse-global-network-10000-reservation-298000",
+          "agency-portfolio-client-deliverable-reuse-global-network-20000-reservation-498000"
+        ]
+      },
+      "reservation_price_range": {
+        "min": 49800,
+        "max": 498000,
+        "currency": "JPY"
+      },
+      "annual_price_range": {
+        "min": 3980000,
+        "max": 49800000,
+        "currency": "JPY"
+      },
+      "captures": [
+        "selected reservation tier or private tier-confirmation request",
+        "expected annual named-client organization band",
+        "base-license status",
+        "intended derived client-deliverable types",
+        "reservation invoice action",
+        "procurement route",
+        "target timing",
+        "public organization URL",
+        "public-safe use case"
+      ],
+      "invoice_actions": [
+        "After private eligibility confirmation, send written terms and the matching reservation invoice",
+        "Send written terms first; invoice after private buyer approval",
+        "Confirm the correct tier and procurement route before preparing written terms"
+      ],
+      "transaction_boundary": "Public submission is purchase intent only and creates no quote, contract, invoice, charge, reservation, price lock, or license right. Eligibility, final scope, accepted outputs, written terms, tax, billing, payment, cancellation, refunds, and confidential details move privately.",
+      "privacy": "Do not publish client names, personal information, billing details, private company data, credentials, employer-internal information, or confidential information."
     }
   ]
 }
