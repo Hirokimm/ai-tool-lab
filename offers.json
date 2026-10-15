@@ -913,6 +913,25 @@
         "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog_quote_invoice&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=copy_ready_procurement",
         "next_step": "Confirm the smallest eligible tier and accepted outputs privately, complete only applicable vendor onboarding, then issue written terms and the matching reservation invoice after explicit buyer intent.",
         "disclaimer": "Buyer-enablement template only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, or delivery obligation."
+      },
+      "budget_approved_fast_track": {
+        "surface_id": "client-deliverable-reuse-global-budget-approved-reservation-fast-track",
+        "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/836d2398cef73567ffbf2d50e61e88bdbdf9e571/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-budget-approved-reservation-fast-track.yml",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-budget-approved-reservation-fast-track.yml&utm_source=offer_catalog_budget_approved&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=authorized_checkout",
+        "use_when": "The buyer has internal budget approval or an approved spending cap and authority to begin private written-terms and matching reservation-invoice processing.",
+        "captures": [
+          "approved tier or spending cap",
+          "annual named-client forecast band",
+          "buyer authority and budget-approval state",
+          "base-license status",
+          "intended derived deliverable types",
+          "requested private-response timing",
+          "procurement route",
+          "public organization URL",
+          "public-safe purchase context"
+        ],
+        "requested_next_step": "Verify authority, budget approval, eligibility, the smallest sufficient tier, accepted outputs, tax, and procurement route privately before issuing written terms or any invoice.",
+        "disclaimer": "Self-attested purchase intent only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation."
       }
     },
     {
@@ -1007,6 +1026,25 @@
         "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog_quote_invoice&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=copy_ready_procurement",
         "next_step": "Confirm the smallest eligible tier and accepted outputs privately, complete only applicable vendor onboarding, then issue written terms and the matching reservation invoice after explicit buyer intent.",
         "disclaimer": "Buyer-enablement template only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, or delivery obligation."
+      },
+      "budget_approved_fast_track": {
+        "surface_id": "client-deliverable-reuse-global-budget-approved-reservation-fast-track",
+        "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/836d2398cef73567ffbf2d50e61e88bdbdf9e571/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-budget-approved-reservation-fast-track.yml",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-budget-approved-reservation-fast-track.yml&utm_source=offer_catalog_budget_approved&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=authorized_checkout",
+        "use_when": "The buyer has internal budget approval or an approved spending cap and authority to begin private written-terms and matching reservation-invoice processing.",
+        "captures": [
+          "approved tier or spending cap",
+          "annual named-client forecast band",
+          "buyer authority and budget-approval state",
+          "base-license status",
+          "intended derived deliverable types",
+          "requested private-response timing",
+          "procurement route",
+          "public organization URL",
+          "public-safe purchase context"
+        ],
+        "requested_next_step": "Verify authority, budget approval, eligibility, the smallest sufficient tier, accepted outputs, tax, and procurement route privately before issuing written terms or any invoice.",
+        "disclaimer": "Self-attested purchase intent only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation."
       }
     },
     {
@@ -1101,6 +1139,25 @@
         "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog_quote_invoice&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=copy_ready_procurement",
         "next_step": "Confirm the smallest eligible tier and accepted outputs privately, complete only applicable vendor onboarding, then issue written terms and the matching reservation invoice after explicit buyer intent.",
         "disclaimer": "Buyer-enablement template only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, or delivery obligation."
+      },
+      "budget_approved_fast_track": {
+        "surface_id": "client-deliverable-reuse-global-budget-approved-reservation-fast-track",
+        "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/836d2398cef73567ffbf2d50e61e88bdbdf9e571/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-budget-approved-reservation-fast-track.yml",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-budget-approved-reservation-fast-track.yml&utm_source=offer_catalog_budget_approved&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=authorized_checkout",
+        "use_when": "The buyer has internal budget approval or an approved spending cap and authority to begin private written-terms and matching reservation-invoice processing.",
+        "captures": [
+          "approved tier or spending cap",
+          "annual named-client forecast band",
+          "buyer authority and budget-approval state",
+          "base-license status",
+          "intended derived deliverable types",
+          "requested private-response timing",
+          "procurement route",
+          "public organization URL",
+          "public-safe purchase context"
+        ],
+        "requested_next_step": "Verify authority, budget approval, eligibility, the smallest sufficient tier, accepted outputs, tax, and procurement route privately before issuing written terms or any invoice.",
+        "disclaimer": "Self-attested purchase intent only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation."
       }
     },
     {
@@ -1239,6 +1296,25 @@
         "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog_quote_invoice&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=copy_ready_procurement",
         "next_step": "Confirm the smallest eligible tier and accepted outputs privately, complete only applicable vendor onboarding, then issue written terms and the matching reservation invoice after explicit buyer intent.",
         "disclaimer": "Buyer-enablement template only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, or delivery obligation."
+      },
+      "budget_approved_fast_track": {
+        "surface_id": "client-deliverable-reuse-global-budget-approved-reservation-fast-track",
+        "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/836d2398cef73567ffbf2d50e61e88bdbdf9e571/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-budget-approved-reservation-fast-track.yml",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-budget-approved-reservation-fast-track.yml&utm_source=offer_catalog_budget_approved&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=authorized_checkout",
+        "use_when": "The buyer has internal budget approval or an approved spending cap and authority to begin private written-terms and matching reservation-invoice processing.",
+        "captures": [
+          "approved tier or spending cap",
+          "annual named-client forecast band",
+          "buyer authority and budget-approval state",
+          "base-license status",
+          "intended derived deliverable types",
+          "requested private-response timing",
+          "procurement route",
+          "public organization URL",
+          "public-safe purchase context"
+        ],
+        "requested_next_step": "Verify authority, budget approval, eligibility, the smallest sufficient tier, accepted outputs, tax, and procurement route privately before issuing written terms or any invoice.",
+        "disclaimer": "Self-attested purchase intent only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation."
       }
     },
     {
@@ -1343,6 +1419,25 @@
         "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-unified-reservation-invoice-request.yml&utm_source=offer_catalog_quote_invoice&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=copy_ready_procurement",
         "next_step": "Confirm the smallest eligible tier and accepted outputs privately, complete only applicable vendor onboarding, then issue written terms and the matching reservation invoice after explicit buyer intent.",
         "disclaimer": "Buyer-enablement template only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, or delivery obligation."
+      },
+      "budget_approved_fast_track": {
+        "surface_id": "client-deliverable-reuse-global-budget-approved-reservation-fast-track",
+        "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/836d2398cef73567ffbf2d50e61e88bdbdf9e571/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-budget-approved-reservation-fast-track.yml",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-budget-approved-reservation-fast-track.yml&utm_source=offer_catalog_budget_approved&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=authorized_checkout",
+        "use_when": "The buyer has internal budget approval or an approved spending cap and authority to begin private written-terms and matching reservation-invoice processing.",
+        "captures": [
+          "approved tier or spending cap",
+          "annual named-client forecast band",
+          "buyer authority and budget-approval state",
+          "base-license status",
+          "intended derived deliverable types",
+          "requested private-response timing",
+          "procurement route",
+          "public organization URL",
+          "public-safe purchase context"
+        ],
+        "requested_next_step": "Verify authority, budget approval, eligibility, the smallest sufficient tier, accepted outputs, tax, and procurement route privately before issuing written terms or any invoice.",
+        "disclaimer": "Self-attested purchase intent only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation."
       }
     }
   ],
@@ -1481,6 +1576,60 @@
       ],
       "transaction_boundary": "Public submission is purchase intent only and creates no quote, contract, invoice, charge, reservation, price lock, or license right. Eligibility, final scope, accepted outputs, written terms, tax, billing, payment, cancellation, refunds, and confidential details move privately.",
       "privacy": "Do not publish client names, personal information, billing details, private company data, credentials, employer-internal information, or confidential information."
+    },
+    {
+      "id": "client-deliverable-reuse-global-budget-approved-reservation-fast-track",
+      "name": "Client-Deliverable Reuse Global budget-approved reservation fast track",
+      "surface_type": "cross_tier_budget_approved_paid_intent",
+      "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/836d2398cef73567ffbf2d50e61e88bdbdf9e571/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-budget-approved-reservation-fast-track.yml",
+      "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-budget-approved-reservation-fast-track.yml&utm_source=offer_catalog_budget_approved&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=authorized_checkout",
+      "coverage": {
+        "named_end_client_organizations_min": 501,
+        "named_end_client_organizations_max": 20000,
+        "selectable_tiers": 5,
+        "linked_offer_ids": [
+          "agency-portfolio-client-deliverable-reuse-global-1000-reservation-49800",
+          "agency-portfolio-client-deliverable-reuse-global-plus-2500-reservation-98000",
+          "agency-portfolio-client-deliverable-reuse-global-scale-5000-reservation-198000",
+          "agency-portfolio-client-deliverable-reuse-global-network-10000-reservation-298000",
+          "agency-portfolio-client-deliverable-reuse-global-network-20000-reservation-498000"
+        ]
+      },
+      "reservation_price_range": {
+        "min": 49800,
+        "max": 498000,
+        "currency": "JPY"
+      },
+      "annual_price_range": {
+        "min": 3980000,
+        "max": 49800000,
+        "currency": "JPY"
+      },
+      "captures": [
+        "approved reservation tier or approved spending cap",
+        "expected annual named-client organization band",
+        "budget approval and buyer authority",
+        "base-license status",
+        "intended derived client-deliverable types",
+        "requested private-response timing",
+        "procurement route",
+        "public organization URL",
+        "public-safe purchase context"
+      ],
+      "response_windows": [
+        "Within 1 business day requested",
+        "Within 2 business days requested",
+        "Within 5 business days requested"
+      ],
+      "procurement_routes": [
+        "Invoice after accepted written terms; no purchase order expected",
+        "Purchase order after accepted written terms",
+        "Vendor onboarding before invoice",
+        "Confirm privately"
+      ],
+      "buyer_acknowledgements": 7,
+      "transaction_boundary": "Public submission is self-attested purchase intent only and creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation. Authority, budget approval, eligibility, final scope, accepted outputs, written terms, tax, billing, payment, cancellation, refunds, and confidential details are verified privately.",
+      "privacy": "Do not publish client names, personal information, billing details, bank or tax details, credentials, employer-internal information, security or compliance material, or other confidential information."
     }
   ]
 }
