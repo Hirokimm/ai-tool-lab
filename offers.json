@@ -932,6 +932,24 @@
         ],
         "requested_next_step": "Verify authority, budget approval, eligibility, the smallest sufficient tier, accepted outputs, tax, and procurement route privately before issuing written terms or any invoice.",
         "disclaimer": "Self-attested purchase intent only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation."
+      },
+      "procurement_ready_reservation_handoff": {
+        "surface_id": "client-deliverable-reuse-global-procurement-ready-reservation-handoff",
+        "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/b4e7407e63eea23bba5c465b2c2c319e7e440095/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-procurement-ready-reservation-handoff.yml",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-procurement-ready-reservation-handoff.yml&utm_source=offer_catalog_procurement_handoff&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=vendor_onboarding_po_invoice",
+        "use_when": "The buyer has budget authority and is ready to start private vendor onboarding, quotation, purchase-order, written-terms, or reservation-invoice processing.",
+        "private_handoff_items": [
+          "written commercial terms",
+          "quotation or commercial summary",
+          "vendor onboarding information",
+          "purchase-order line description",
+          "reservation invoice",
+          "security or compliance questionnaire",
+          "tax or remittance information",
+          "private scope confirmation"
+        ],
+        "requested_next_step": "Verify buyer authority, budget approval, eligibility, the smallest sufficient tier, accepted outputs, tax, procurement sequence, and vendor-onboarding requirements privately before issuing any quotation, written terms, purchase-order support, or reservation invoice.",
+        "disclaimer": "Self-attested procurement intent only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation."
       }
     },
     {
@@ -1045,6 +1063,24 @@
         ],
         "requested_next_step": "Verify authority, budget approval, eligibility, the smallest sufficient tier, accepted outputs, tax, and procurement route privately before issuing written terms or any invoice.",
         "disclaimer": "Self-attested purchase intent only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation."
+      },
+      "procurement_ready_reservation_handoff": {
+        "surface_id": "client-deliverable-reuse-global-procurement-ready-reservation-handoff",
+        "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/b4e7407e63eea23bba5c465b2c2c319e7e440095/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-procurement-ready-reservation-handoff.yml",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-procurement-ready-reservation-handoff.yml&utm_source=offer_catalog_procurement_handoff&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=vendor_onboarding_po_invoice",
+        "use_when": "The buyer has budget authority and is ready to start private vendor onboarding, quotation, purchase-order, written-terms, or reservation-invoice processing.",
+        "private_handoff_items": [
+          "written commercial terms",
+          "quotation or commercial summary",
+          "vendor onboarding information",
+          "purchase-order line description",
+          "reservation invoice",
+          "security or compliance questionnaire",
+          "tax or remittance information",
+          "private scope confirmation"
+        ],
+        "requested_next_step": "Verify buyer authority, budget approval, eligibility, the smallest sufficient tier, accepted outputs, tax, procurement sequence, and vendor-onboarding requirements privately before issuing any quotation, written terms, purchase-order support, or reservation invoice.",
+        "disclaimer": "Self-attested procurement intent only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation."
       }
     },
     {
@@ -1158,6 +1194,24 @@
         ],
         "requested_next_step": "Verify authority, budget approval, eligibility, the smallest sufficient tier, accepted outputs, tax, and procurement route privately before issuing written terms or any invoice.",
         "disclaimer": "Self-attested purchase intent only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation."
+      },
+      "procurement_ready_reservation_handoff": {
+        "surface_id": "client-deliverable-reuse-global-procurement-ready-reservation-handoff",
+        "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/b4e7407e63eea23bba5c465b2c2c319e7e440095/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-procurement-ready-reservation-handoff.yml",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-procurement-ready-reservation-handoff.yml&utm_source=offer_catalog_procurement_handoff&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=vendor_onboarding_po_invoice",
+        "use_when": "The buyer has budget authority and is ready to start private vendor onboarding, quotation, purchase-order, written-terms, or reservation-invoice processing.",
+        "private_handoff_items": [
+          "written commercial terms",
+          "quotation or commercial summary",
+          "vendor onboarding information",
+          "purchase-order line description",
+          "reservation invoice",
+          "security or compliance questionnaire",
+          "tax or remittance information",
+          "private scope confirmation"
+        ],
+        "requested_next_step": "Verify buyer authority, budget approval, eligibility, the smallest sufficient tier, accepted outputs, tax, procurement sequence, and vendor-onboarding requirements privately before issuing any quotation, written terms, purchase-order support, or reservation invoice.",
+        "disclaimer": "Self-attested procurement intent only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation."
       }
     },
     {
@@ -1315,6 +1369,24 @@
         ],
         "requested_next_step": "Verify authority, budget approval, eligibility, the smallest sufficient tier, accepted outputs, tax, and procurement route privately before issuing written terms or any invoice.",
         "disclaimer": "Self-attested purchase intent only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation."
+      },
+      "procurement_ready_reservation_handoff": {
+        "surface_id": "client-deliverable-reuse-global-procurement-ready-reservation-handoff",
+        "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/b4e7407e63eea23bba5c465b2c2c319e7e440095/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-procurement-ready-reservation-handoff.yml",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-procurement-ready-reservation-handoff.yml&utm_source=offer_catalog_procurement_handoff&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=vendor_onboarding_po_invoice",
+        "use_when": "The buyer has budget authority and is ready to start private vendor onboarding, quotation, purchase-order, written-terms, or reservation-invoice processing.",
+        "private_handoff_items": [
+          "written commercial terms",
+          "quotation or commercial summary",
+          "vendor onboarding information",
+          "purchase-order line description",
+          "reservation invoice",
+          "security or compliance questionnaire",
+          "tax or remittance information",
+          "private scope confirmation"
+        ],
+        "requested_next_step": "Verify buyer authority, budget approval, eligibility, the smallest sufficient tier, accepted outputs, tax, procurement sequence, and vendor-onboarding requirements privately before issuing any quotation, written terms, purchase-order support, or reservation invoice.",
+        "disclaimer": "Self-attested procurement intent only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation."
       }
     },
     {
@@ -1438,6 +1510,24 @@
         ],
         "requested_next_step": "Verify authority, budget approval, eligibility, the smallest sufficient tier, accepted outputs, tax, and procurement route privately before issuing written terms or any invoice.",
         "disclaimer": "Self-attested purchase intent only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation."
+      },
+      "procurement_ready_reservation_handoff": {
+        "surface_id": "client-deliverable-reuse-global-procurement-ready-reservation-handoff",
+        "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/b4e7407e63eea23bba5c465b2c2c319e7e440095/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-procurement-ready-reservation-handoff.yml",
+        "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-procurement-ready-reservation-handoff.yml&utm_source=offer_catalog_procurement_handoff&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=vendor_onboarding_po_invoice",
+        "use_when": "The buyer has budget authority and is ready to start private vendor onboarding, quotation, purchase-order, written-terms, or reservation-invoice processing.",
+        "private_handoff_items": [
+          "written commercial terms",
+          "quotation or commercial summary",
+          "vendor onboarding information",
+          "purchase-order line description",
+          "reservation invoice",
+          "security or compliance questionnaire",
+          "tax or remittance information",
+          "private scope confirmation"
+        ],
+        "requested_next_step": "Verify buyer authority, budget approval, eligibility, the smallest sufficient tier, accepted outputs, tax, procurement sequence, and vendor-onboarding requirements privately before issuing any quotation, written terms, purchase-order support, or reservation invoice.",
+        "disclaimer": "Self-attested procurement intent only. Public submission creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation."
       }
     }
   ],
@@ -1630,6 +1720,63 @@
       "buyer_acknowledgements": 7,
       "transaction_boundary": "Public submission is self-attested purchase intent only and creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation. Authority, budget approval, eligibility, final scope, accepted outputs, written terms, tax, billing, payment, cancellation, refunds, and confidential details are verified privately.",
       "privacy": "Do not publish client names, personal information, billing details, bank or tax details, credentials, employer-internal information, security or compliance material, or other confidential information."
+    },
+    {
+      "id": "client-deliverable-reuse-global-procurement-ready-reservation-handoff",
+      "name": "Client-Deliverable Reuse Global procurement-ready reservation handoff",
+      "surface_type": "cross_tier_procurement_ready_paid_intent",
+      "public_form_url": "https://github.com/Hirokimm/data-act-exit-audit/blob/b4e7407e63eea23bba5c465b2c2c319e7e440095/.github/ISSUE_TEMPLATE/agency-portfolio-client-deliverable-reuse-global-procurement-ready-reservation-handoff.yml",
+      "attributable_order_url": "https://github.com/Hirokimm/data-act-exit-audit/issues/new?template=agency-portfolio-client-deliverable-reuse-global-procurement-ready-reservation-handoff.yml&utm_source=offer_catalog_procurement_handoff&utm_medium=ai_discovery&utm_campaign=agency_client_deliverable_reuse_global_reservation&utm_content=vendor_onboarding_po_invoice",
+      "coverage": {
+        "named_end_client_organizations_min": 501,
+        "named_end_client_organizations_max": 20000,
+        "selectable_tiers": 5,
+        "linked_offer_ids": [
+          "agency-portfolio-client-deliverable-reuse-global-1000-reservation-49800",
+          "agency-portfolio-client-deliverable-reuse-global-plus-2500-reservation-98000",
+          "agency-portfolio-client-deliverable-reuse-global-scale-5000-reservation-198000",
+          "agency-portfolio-client-deliverable-reuse-global-network-10000-reservation-298000",
+          "agency-portfolio-client-deliverable-reuse-global-network-20000-reservation-498000"
+        ]
+      },
+      "reservation_price_range": {
+        "min": 49800,
+        "max": 498000,
+        "currency": "JPY"
+      },
+      "annual_price_range": {
+        "min": 3980000,
+        "max": 49800000,
+        "currency": "JPY"
+      },
+      "captures": [
+        "budget-approved reservation tier or approved spending cap",
+        "current procurement stage",
+        "required private handoff items",
+        "buyer-side process-owner role",
+        "requested private handoff start window",
+        "purchase-order route",
+        "base-license status",
+        "public organization URL",
+        "public-safe procurement context"
+      ],
+      "private_handoff_items": [
+        "written commercial terms",
+        "quotation or commercial summary",
+        "vendor onboarding information",
+        "purchase-order line description",
+        "reservation invoice",
+        "security or compliance questionnaire",
+        "tax or remittance information",
+        "private scope confirmation"
+      ],
+      "procurement_stages": 5,
+      "process_owner_roles": 6,
+      "requested_start_windows": 4,
+      "purchase_order_routes": 4,
+      "buyer_acknowledgements": 8,
+      "transaction_boundary": "Public submission is self-attested procurement intent only and creates no quote, contract, invoice, charge, reservation, price lock, license right, response-time guarantee, or delivery obligation. Authority, budget approval, eligibility, final scope, accepted outputs, written terms, tax, vendor onboarding, purchase order, billing, payment, cancellation, refunds, and confidential details are verified privately.",
+      "privacy": "Do not publish legal-entity details, personal information, client names, billing or banking information, tax identifiers, purchase-order numbers, security documents, credentials, internal system links, or confidential information."
     }
   ]
 }
