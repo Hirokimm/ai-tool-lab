@@ -55,7 +55,7 @@ Do not submit personal data, employer/customer information, credentials, private
 
 Split2AI performs PDF splitting in the browser. The Folder Batch path is the current acquisition focus; the link above carries source, medium, campaign and content attribution.
 
-The AI search check is free; if the result is sufficient to fix the site yourself, no paid service is needed. Its fixed-price ¥1,980 prioritization pilot is only an optional next step.
+The AI search check is free; if the result is sufficient to fix the site yourself, no paid service is needed. Its [fixed-price ¥1,980 prioritization pilot](https://github.com/Hirokimm/ai-tool-lab/issues/238?utm_source=github&utm_medium=repository&utm_campaign=ai_tool_lab_quick_fix_1980&utm_content=readme_free_to_paid) is only an optional next step.
 
 The certification-signal page shows the evidence-backed sample, CSV download and fit criteria before any commercial discussion. Submitting interest does not create a charge.
 
