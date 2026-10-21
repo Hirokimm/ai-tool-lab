@@ -59,7 +59,7 @@ The AI search check is free; if the result is sufficient to fix the site yoursel
 
 ### For agencies shipping repeated client-site changes
 
-Agencies, freelancers, and web teams can use the [¥9,800 recurring change-check pack](https://github.com/Hirokimm/ai-tool-lab/issues/253?utm_source=github&utm_medium=repository&utm_campaign=agency_changecheck_9800&utm_content=readme_agency_repeat) for **6 checks within 90 days**. Each check covers one public site and up to three public pages, returns up to five prioritized fixes, and is consumed only when the written handoff is delivered. Scope/fit is confirmed before payment; there is no automatic renewal and the agency keeps the client relationship.
+Agencies, freelancers, and web teams can use the [¥9,800 recurring change-check pack](https://github.com/Hirokimm/ai-tool-lab/issues/253?utm_source=github&utm_medium=repository&utm_campaign=agency_changecheck_9800&utm_content=readme_agency_repeat) for **6 checks within 90 days**. At about **¥1,633 per check**, it is **¥2,080 lower (17.5%)** than buying six ¥1,980 one-off checks (¥11,880 total). Choose the one-off check when only one change is expected; choose the pack when repeated site changes are likely within 90 days. Each check covers one public site and up to three public pages, returns up to five prioritized fixes, and is consumed only when the written handoff is delivered. Scope/fit is confirmed before payment; there is no automatic renewal and the agency keeps the client relationship.
 
 The certification-signal page shows the evidence-backed sample, CSV download and fit criteria before any commercial discussion. Submitting interest does not create a charge.
 
