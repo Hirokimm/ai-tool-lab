@@ -57,6 +57,8 @@ Split2AI performs PDF splitting in the browser. The Folder Batch path is the cur
 
 The AI search check is free; if the result is sufficient to fix the site yourself, no paid service is needed. Its [fixed-price ¥1,980 prioritization pilot](https://github.com/Hirokimm/ai-tool-lab/issues/238?utm_source=github&utm_medium=repository&utm_campaign=ai_tool_lab_quick_fix_1980&utm_content=readme_free_to_paid) is only an optional next step.
 
+Before submitting a site, review the [synthetic sample handoff](https://github.com/Hirokimm/ai-tool-lab/issues/257?utm_source=github&utm_medium=repository&utm_campaign=sample_handoff_1980&utm_content=readme_sample_handoff) to see the evidence → why it matters → priority fix → verification format. The example uses no client, employer, or private data and does not expand the existing paid scope.
+
 ### For agencies shipping repeated client-site changes
 
 Agencies, freelancers, and web teams can use the [¥9,800 recurring change-check pack](https://github.com/Hirokimm/ai-tool-lab/issues/253?utm_source=github&utm_medium=repository&utm_campaign=agency_changecheck_9800&utm_content=readme_agency_repeat) for **6 checks within 90 days**. At about **¥1,633 per check**, it is **¥2,080 lower (17.5%)** than buying six ¥1,980 one-off checks (¥11,880 total). Choose the one-off check when only one change is expected; choose the pack when repeated site changes are likely within 90 days. Each check covers one public site and up to three public pages, returns up to five prioritized fixes, and is consumed only when the written handoff is delivered. Scope/fit is confirmed before payment; there is no automatic renewal and the agency keeps the client relationship.
