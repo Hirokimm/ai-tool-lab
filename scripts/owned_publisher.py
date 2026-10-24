@@ -7,6 +7,7 @@ import html
 import json
 import os
 from pathlib import Path
+from urllib.error import URLError
 from urllib.parse import urlencode, urlsplit
 from urllib.request import Request, urlopen
 
@@ -16,6 +17,7 @@ PUBLIC_BASE = "https://aiventurefactory117.com"
 TRACKER_BASE = "https://factory-social-control-plane.vercel.app/api/r"
 ALLOWED_MANIFEST_HOSTS = {"factory-social-control-plane.vercel.app"}
 ALLOWED_CTA_TARGETS = {"ai-search-audit", "hub", "split2ai"}
+SEED_MANIFEST = Path(__file__).resolve().parents[1] / "data" / "owned_manifest_seed.json"
 
 
 def _load_json_url(url: str) -> dict:
@@ -29,10 +31,17 @@ def _load_json_url(url: str) -> dict:
         return json.loads(response.read().decode("utf-8"))
 
 
-def _load_manifest(args: argparse.Namespace) -> dict:
+def _load_manifest(args: argparse.Namespace) -> tuple[dict, str]:
     if args.manifest_file:
-        return json.loads(Path(args.manifest_file).read_text(encoding="utf-8"))
-    return _load_json_url(args.manifest_url)
+        path = Path(args.manifest_file)
+        return json.loads(path.read_text(encoding="utf-8")), f"file:{path}"
+    try:
+        return _load_json_url(args.manifest_url), "control-plane"
+    except (URLError, TimeoutError, RuntimeError) as exc:
+        if not SEED_MANIFEST.exists():
+            raise
+        manifest = json.loads(SEED_MANIFEST.read_text(encoding="utf-8"))
+        return manifest, f"seed-fallback:{type(exc).__name__}"
 
 
 def _safe_slug(value: str) -> str:
@@ -178,9 +187,9 @@ def main() -> int:
     parser.add_argument("--manifest-file")
     parser.add_argument("--root", default=".")
     args = parser.parse_args()
-    manifest = _load_manifest(args)
+    manifest, source = _load_manifest(args)
     count, changed = publish(manifest, Path(args.root))
-    print(json.dumps({"published": count, "changed_ids": changed}, ensure_ascii=False, separators=(",", ":")))
+    print(json.dumps({"published": count, "changed_ids": changed, "manifest_source": source}, ensure_ascii=False, separators=(",", ":")))
     return 0
 
 
