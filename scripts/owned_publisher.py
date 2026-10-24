@@ -10,7 +10,7 @@ from pathlib import Path
 from urllib.parse import urlencode, urlsplit
 from urllib.request import Request, urlopen
 
-DEFAULT_MANIFEST_URL = "https://factory-social-control-plane.vercel.app/owned_manifest.json"
+DEFAULT_MANIFEST_URL = "https://factory-social-control-plane.vercel.app/api/owned_manifest"
 SITE = "ai-tool-lab"
 PUBLIC_BASE = "https://aiventurefactory117.com"
 TRACKER_BASE = "https://factory-social-control-plane.vercel.app/api/r"
