@@ -55,7 +55,7 @@ jobs:
         run: python scripts/owned_publisher.py
       - name: Persist published content and receipts
         run: |
-          if git diff --quiet -- insights data/owned_publish_receipts.json; then
+          if [ -z "$(git status --porcelain -- insights data/owned_publish_receipts.json)" ]; then
             echo "No owned-media state change"
             exit 0
           fi
