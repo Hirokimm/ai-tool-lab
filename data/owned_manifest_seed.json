@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-24T11:30:00+09:00",
+  "items": [
+    {
+      "id": "owned-geo-visibility-001",
+      "status": "READY",
+      "site": "ai-tool-lab",
+      "slug": "ai-search-visibility-check",
+      "title": "AI検索で自社サイトが引用される準備はできている？ 5分チェック",
+      "description": "ChatGPTなどのAI検索で見つけてもらう前に確認したい、クロール・構造化・引用しやすさの基本項目を短く整理します。",
+      "published_at": "2026-10-24",
+      "venture": "#002",
+      "campaign": "owned_geo_visibility_check",
+      "content_id": "owned-geo-visibility-001",
+      "cta_target": "ai-search-audit",
+      "cta_label": "自社サイトを無料でチェックする",
+      "sections": [
+        {
+          "heading": "まず見るべき3点",
+          "paragraphs": [
+            "AI検索対策は、特別なテクニックを足す前に、公開ページを取得できるか、ページの主題を機械が理解しやすいか、回答の根拠として引用しやすい情報があるかを確認するのが先です。",
+            "確認対象は、robots.txtや主要AIクローラーへの公開状態、title・description・見出し・構造化データ、質問に対する明確な答えや運営者情報です。"
+          ]
+        },
+        {
+          "heading": "AI検索での『掲載』と『引用準備度』は別物",
+          "paragraphs": [
+            "技術的な準備が整っていても、特定のAI回答への掲載や順位は保証できません。一方で、クロールを妨げる設定や情報構造の不足は、自社で確認して改善できます。",
+            "そのため最初のKPIは『必ず引用されること』ではなく、取得・理解・引用の障害を減らし、観測可能な状態にすることです。"
+          ]
+        },
+        {
+          "heading": "5分で確認するなら",
+          "paragraphs": [
+            "無料監査では公開URLだけを使い、AIクローラー設定、構造化情報、引用しやすさの基礎項目をまとめて確認できます。問題がなければ有料対応は不要です。改善点が出た場合だけ、優先順位を付けて直せば十分です。"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenAI Help — ChatGPT Search",
+          "url": "https://help.openai.com/ja-jp/articles/9237897-searching-the-web-with-chatgpt"
+        },
+        {
+          "label": "Similarweb — GEO for Japanese companies",
+          "url": "https://aisearch.similarweb.com/ja/blog/geo-for-japanese-companies/"
+        },
+        {
+          "label": "AccessGEO",
+          "url": "https://access-geo.jp/"
+        }
+      ]
+    }
+  ]
+}
