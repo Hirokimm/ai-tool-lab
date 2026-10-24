@@ -42,8 +42,12 @@ jobs:
     if: github.event_name != 'pull_request'
     needs: test
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
     permissions:
       contents: write
+      pages: write
+      id-token: write
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
         with:
@@ -53,10 +57,12 @@ jobs:
           python-version: "3.12"
       - name: Pull central manifest or bounded seed fallback and render due owned content
         run: python scripts/owned_publisher.py
-      - name: Persist published content and receipts
+      - id: persist
+        name: Persist published content and receipts
         run: |
           if [ -z "$(git status --porcelain -- insights data/owned_publish_receipts.json)" ]; then
             echo "No owned-media state change"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git config user.name "factory-owned-publisher"
@@ -64,3 +70,16 @@ jobs:
           git add insights data/owned_publish_receipts.json
           git commit -m "chore(owned): publish manifest content"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+      - name: Configure Pages
+        if: steps.persist.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        if: steps.persist.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        name: Deploy Pages
+        if: steps.persist.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/deploy-pages@v4
