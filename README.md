@@ -2,6 +2,16 @@
 
 Public owned-media and shared distribution hub for AI Venture Factory.
 
+
+## Small public-data pilot — 200 business leads for ¥4,000
+
+Need a bounded research list before considering automation? The pilot covers **200 public business records for ¥4,000（税込）**, with columns agreed before work starts and one correction pass for clear transcription errors or duplicates.
+
+**[Request the 200-lead pilot](https://github.com/Hirokimm/ai-tool-lab/issues/278?utm_source=github&utm_medium=repository&utm_campaign=lead_list_pilot_4000&utm_content=readme_top_cta)**
+
+Comment only the target industry/region, required columns, and preferred deadline. Do not post personal data, credentials, private sources, employer/customer information, or confidential records. A comment is not a charge or contract.
+
+
 ## Sell / refer the Automation Pilot
 
 Independent consultants, agencies, builders, and operators can use two zero-upfront-cost commercial paths around the existing **¥49,000 Fixed-Scope AI Workflow Automation Pilot**.
